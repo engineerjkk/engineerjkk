@@ -8,7 +8,7 @@ Sub Interests 🔭 [Data Science(Pandas)](https://github.com/engineerjkk/Pandas)
 
 Sub Interests 🔭 [Soft Ware(Data Structure and Algorithm)](https://github.com/engineerjkk/AlgortihmsAndDataStructures)
 
-Sub Interests 🔭 [Mathmathics]
+Sub Interests 🔭 Mathmathics
 <!--
 **engineerjkk/engineerjkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
