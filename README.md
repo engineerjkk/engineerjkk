@@ -2,7 +2,7 @@
 **Main Interests** 🔭 [Image Processing](https://github.com/engineerjkk/Image_Processing) and [Deep Learning](https://github.com/engineerjkk/Deep_Learning)  
 
 
-Sub Interests : Hard Ware and Firm Ware 🔭 [SMPS](https://github.com/engineerjkk/SMPS) and [BLDC Motor](https://github.com/engineerjkk/BLDC_Motor_Controller) and [Smart Bed](https://github.com/engineerjkk/Smart-Bed)  
+Sub Interests : Hard Ware and Firm Ware 🔭 [SMPS](https://github.com/engineerjkk/SMPS) and [BLDC Motor](https://github.com/engineerjkk/BLDC_Motor_Controller) and [Smart Bed](https://github.com/engineerjkk/Smart-Bed) and [CUBE AI Sine Tutorial](https://blog.naver.com/engineerjkk)  
 
 Sub Interests : Data Science 🔭 [Pandas](https://github.com/engineerjkk/Pandas)
 
