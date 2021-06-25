@@ -8,6 +8,8 @@ Sub Interests : Data Science 🔭 [Pandas](https://github.com/engineerjkk/Pandas
 
 Sub Interests : Soft Ware 🔭 [Data Structure and Algorithm](https://github.com/engineerjkk/AlgortihmsAndDataStructures)
 
+**Paper** : A Method to Enhance the Accuracy of Braille Block Recognition for Walking Assistance of the Visually Impaired : Using YOLOv5 and Analysis of Vertex Coordinates 
+
 <!--
 **engineerjkk/engineerjkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
