@@ -6,7 +6,7 @@
 
 Sub Interests 1 : Data Science 🔭 [Pandas](https://github.com/engineerjkk/Pandas)
 
-Sub Interests 2 : Soft Ware 🔭 [Data Structure and Algorithm in C](https://github.com/engineerjkk/AlgortihmsAndDataStructures), [Data Structure and Algorithm in Python](https://github.com/engineerjkk/DataStructure-in-Python)  
+Sub Interests 2 : Soft Ware 🔭 Data Structure and Algorithm in [C](https://github.com/engineerjkk/AlgortihmsAndDataStructures), [Python](https://github.com/engineerjkk/DataStructure-in-Python)  
 
 Sub Interests 3 : Soft Ware 🔭 [DataBase](https://github.com/engineerjkk/DataBase), [NetWork](https://github.com/engineerjkk/Network), [OperatingSystem](https://github.com/engineerjkk/OperatingSystem)  
 
