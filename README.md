@@ -1,12 +1,14 @@
 ### Junekoo Kang 👋
 
-**Main Interests** : Hard Ware and Firm Ware 🔭 [SMPS](https://github.com/engineerjkk/SMPS) and [BLDC Motor](https://github.com/engineerjkk/BLDC_Motor_Controller) and [Smart Bed](https://github.com/engineerjkk/Smart-Bed)
 
-**Main Interests** : [Image Processing](https://github.com/engineerjkk/Image_Processing) and [Deep Learning](https://github.com/engineerjkk/Deep_Learning)  
 
-Sub Interests 1 : Data Science 🔭 [Pandas](https://github.com/engineerjkk/Pandas)
+## Main Interests 1 : ⚡ [Image Processing](https://github.com/engineerjkk/Image_Processing) and ## [Deep Learning](https://github.com/engineerjkk/Deep_Learning)  
 
-Sub Interests 2 : Soft Ware 🔭 Data Structure and Algorithm in [C](https://github.com/engineerjkk/AlgortihmsAndDataStructures), [Python](https://github.com/engineerjkk/DataStructure-in-Python)  
+## Main Interests 2 : Soft Ware 🔭 Data Structure and Algorithm in [C](https://github.com/engineerjkk/AlgortihmsAndDataStructures), [Python](https://github.com/engineerjkk/DataStructure-in-Python)  
+
+Sub Interests 1 : Hard Ware and Firm Ware 🔭 [SMPS](https://github.com/engineerjkk/SMPS) and [BLDC Motor](https://github.com/engineerjkk/BLDC_Motor_Controller) and [Smart Bed](https://github.com/engineerjkk/Smart-Bed)
+
+Sub Interests 2 : Data Science 🔭 [Pandas](https://github.com/engineerjkk/Pandas)  
 
 Sub Interests 3 : Soft Ware 🔭 [DataBase](https://github.com/engineerjkk/DataBase), [NetWork](https://github.com/engineerjkk/Network), [OperatingSystem](https://github.com/engineerjkk/OperatingSystem)  
 
