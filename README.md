@@ -10,7 +10,7 @@ Sub Interests 1 : Hard Ware and Firm Ware 🔭 [SMPS](https://github.com/enginee
 
 Sub Interests 2 : Data Science 🔭 [Pandas](https://github.com/engineerjkk/Pandas)  
 
-Sub Interests 3 : Soft Ware 🔭 [DataBase](https://github.com/engineerjkk/DataBase), [NetWork](https://github.com/engineerjkk/Network), [OperatingSystem](https://github.com/engineerjkk/OperatingSystem)  
+
 
 **Paper** :   
 1. [A Method to Enhance the Accuracy of Braille Block Recognition for Walking Assistance of the Visually Impaired : Using YOLOv5 and Analysis of Vertex Coordinates](https://github.com/engineerjkk/PaperReview/blob/main/A%20Method%20to%20Enhance%20the%20Accuracy%20of%20Braille%20Block%20Recognition%20for%20Walking%20Assistance%20of%20the%20Visually%20Impaired_Using%20YOLOv5%20and%20Analysis%20of%20Vertex%20Coordinates.pdf)  
@@ -18,6 +18,8 @@ Sub Interests 3 : Soft Ware 🔭 [DataBase](https://github.com/engineerjkk/DataB
 
 <!--
 **engineerjkk/engineerjkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Sub Interests 3 : Soft Ware 🔭 [DataBase](https://github.com/engineerjkk/DataBase), [NetWork](https://github.com/engineerjkk/Network), [OperatingSystem](https://github.com/engineerjkk/OperatingSystem)  
 
 Here are some ideas to get you started:
 
