@@ -4,7 +4,7 @@
 
 ## Main Interests 1 : ⚡ [Image Processing](https://github.com/engineerjkk/Image_Processing) and ⚡ [Deep Learning](https://github.com/engineerjkk/Deep_Learning)  
 
-## My Works : [implementing papers](https://github.com/engineerjkk/implementing-Papers)
+## My Works : [Implementing papers](https://github.com/engineerjkk/implementing-Papers)
 
 ## Main Interests 2 : ⚡ Data Structure and Algorithm in [C](https://github.com/engineerjkk/AlgortihmsAndDataStructures), [Python](https://github.com/engineerjkk/DataStructure-in-Python)  
 
