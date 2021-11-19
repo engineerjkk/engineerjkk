@@ -6,7 +6,7 @@
 
 ## Main Interests 2 : ⚡ Data Structure and Algorithm in [C](https://github.com/engineerjkk/AlgortihmsAndDataStructures), [Python](https://github.com/engineerjkk/DataStructure-in-Python)  
 
-## My own works: ⚡ [Implementing papers](https://github.com/engineerjkk/implementing-Papers), [Python for linear algebra]
+## My own works: ⚡ [Implementing papers](https://github.com/engineerjkk/implementing-Papers), [Python for linear algebra](https://github.com/engineerjkk/Python-for-LinearAlgebra)
 
 Sub Interests 1 : Hard Ware and Firm Ware 🔭 [SMPS](https://github.com/engineerjkk/SMPS) and [BLDC Motor](https://github.com/engineerjkk/BLDC_Motor_Controller) and [Smart Bed](https://github.com/engineerjkk/Smart-Bed)
 
