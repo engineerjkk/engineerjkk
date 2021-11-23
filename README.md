@@ -1,16 +1,17 @@
 ### Junekoo Kang 👋
 
+### My own works 
+1. LeNet(1998)
+2. AlexNet(2012)
+3. ResNet(2015)
 
+My Study history 1 : [Image Processing](https://github.com/engineerjkk/Image_Processing) and [Deep Learning](https://github.com/engineerjkk/Deep_Learning)  
 
-## Main Interests 1 : ⚡ [Image Processing](https://github.com/engineerjkk/Image_Processing) and ⚡ [Deep Learning](https://github.com/engineerjkk/Deep_Learning)  
+My Study history 2 : Data Structure and Algorithm in [C](https://github.com/engineerjkk/AlgortihmsAndDataStructures), [Python](https://github.com/engineerjkk/DataStructure-in-Python)  
 
-## Main Interests 2 : ⚡ Data Structure and Algorithm in [C](https://github.com/engineerjkk/AlgortihmsAndDataStructures), [Python](https://github.com/engineerjkk/DataStructure-in-Python)  
+My Study history 3 : Hard Ware and Firm Ware 🔭 [SMPS](https://github.com/engineerjkk/SMPS) and [BLDC Motor](https://github.com/engineerjkk/BLDC_Motor_Controller) and [Smart Bed](https://github.com/engineerjkk/Smart-Bed)
 
-## My own works: ⚡ [Implementing papers](https://github.com/engineerjkk/implementing-Papers), [Python for linear algebra](https://github.com/engineerjkk/Python-for-LinearAlgebra)
-
-Sub Interests 1 : Hard Ware and Firm Ware 🔭 [SMPS](https://github.com/engineerjkk/SMPS) and [BLDC Motor](https://github.com/engineerjkk/BLDC_Motor_Controller) and [Smart Bed](https://github.com/engineerjkk/Smart-Bed)
-
-Sub Interests 2 : Data Science 🔭 [Pandas](https://github.com/engineerjkk/Pandas)  
+My Study history 4 : Data Science 🔭 [Pandas](https://github.com/engineerjkk/Pandas)  
 
 
 
