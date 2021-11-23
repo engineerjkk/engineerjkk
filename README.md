@@ -1,10 +1,11 @@
 ### Junekoo Kang 👋
 
 **My own works** 
-1. LeNet(1998)
-2. AlexNet(2012)
-   - PCA
-3. ResNet(2015)
+* LeNet(1998)
+  * [Original Paper Link](https://github.com/engineerjkk/implementing-Papers/blob/main/01.LeNet(1998)/LeNet-5.pdf) / [Paper Review Video] / [Summary PDF](https://github.com/engineerjkk/implementing-Papers/blob/main/01.LeNet(1998)/LeNet_Presentation.pdf) / [Code Practice](https://github.com/engineerjkk/implementing-Papers/blob/main/01.LeNet(1998)/LeNet.ipynb)
+* AlexNet(2012)
+  * [Original Paper Link](https://github.com/engineerjkk/implementing-Papers/blob/main/02.AlexNet(2012)/AlexNet.pdf) / [Paper Review Video] / [Summary PDF]
+* ResNet(2015)
 
 My Study history 1 : [Image Processing](https://github.com/engineerjkk/Image_Processing) and [Deep Learning](https://github.com/engineerjkk/Deep_Learning)  
 
