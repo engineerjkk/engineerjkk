@@ -9,9 +9,9 @@ My Study history 1 : [Image Processing](https://github.com/engineerjkk/Image_Pro
 
 My Study history 2 : Data Structure and Algorithm in [C](https://github.com/engineerjkk/AlgortihmsAndDataStructures), [Python](https://github.com/engineerjkk/DataStructure-in-Python)  
 
-My Study history 3 : Hard Ware and Firm Ware 🔭 [SMPS](https://github.com/engineerjkk/SMPS) and [BLDC Motor](https://github.com/engineerjkk/BLDC_Motor_Controller) and [Smart Bed](https://github.com/engineerjkk/Smart-Bed)
+My Study history 3 : Hard Ware and Firm Ware [SMPS](https://github.com/engineerjkk/SMPS) and [BLDC Motor](https://github.com/engineerjkk/BLDC_Motor_Controller) and [Smart Bed](https://github.com/engineerjkk/Smart-Bed)
 
-My Study history 4 : Data Science 🔭 [Pandas](https://github.com/engineerjkk/Pandas)  
+My Study history 4 : Data Science [Pandas](https://github.com/engineerjkk/Pandas)  
 
 
 
