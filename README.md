@@ -3,7 +3,7 @@
 **My own works** 
 1. LeNet(1998)
 2. AlexNet(2012)
-  - PCA
+   - PCA
 3. ResNet(2015)
 
 My Study history 1 : [Image Processing](https://github.com/engineerjkk/Image_Processing) and [Deep Learning](https://github.com/engineerjkk/Deep_Learning)  
