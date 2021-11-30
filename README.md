@@ -9,7 +9,7 @@
 * ResNet(2015)
   * [Original Paper Link](https://github.com/engineerjkk/implementing-Papers/blob/main/04.ResNet/ResNet.pdf) / [Paper Review Video] / [Summary PDF](https://github.com/engineerjkk/implementing-Papers/blob/main/04.ResNet/ResNet%20Presentation.pdf) / [Code Practice](https://github.com/engineerjkk/implementing-Papers/blob/main/04.ResNet/ResNet.py)
  * [PoseNet(2016)](https://github.com/engineerjkk/implementing-Papers/tree/main/05.PoseNet)  
-   * [Original Paper Link] / [Paper Review Video] / [Summary PDF] / [Code Practice]
+   * [Original Paper Link](https://github.com/engineerjkk/implementing-Papers/blob/main/05.PoseNet/PoseNet.pdf) / [Paper Review Video] / [Summary PDF] / [Code Practice]
 
 My Study history 1 : [Image Processing](https://github.com/engineerjkk/Image_Processing) and [Deep Learning](https://github.com/engineerjkk/Deep_Learning)  
 
