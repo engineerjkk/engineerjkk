@@ -26,6 +26,7 @@ My Study history 4: Hard Ware and Firm Ware [SMPS](https://github.com/engineerjk
 2. [A Study on YOLOv5 and Mean Hash Matching Method for Stable Braille Block Recognition](https://github.com/engineerjkk/PaperReview/blob/main/A%20Study%20on%20YOLOv5%20and%20Mean%20Hash%20Matching%20Method%20for%20Stable%20Braille%20Block%20Recognition.pdf)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fengineerjkk&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!--
 **engineerjkk/engineerjkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
