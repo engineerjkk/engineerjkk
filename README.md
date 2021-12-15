@@ -13,7 +13,7 @@
   
 **My own Works** 
 * Capstone Design
-   * [딥러닝을 활용한 위험상황 인지 시스템 개발]((https://github.com/engineerjkk/CapstoneDesign))
+   * [딥러닝을 활용한 위험상황 인지 시스템 개발](https://github.com/engineerjkk/CapstoneDesign)
    * [Summary PDF](https://github.com/engineerjkk/CapstoneDesign/blob/main/CapstoneDesign%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) / Video
 
 * Paper
