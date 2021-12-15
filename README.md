@@ -11,7 +11,8 @@
  * [PoseNet(2016)](https://github.com/engineerjkk/implementing-Papers/tree/main/05.PoseNet)  
    * [Original Paper Link](https://github.com/engineerjkk/implementing-Papers/blob/main/05.PoseNet/PoseNet.pdf) / [Paper Review Video](https://www.youtube.com/watch?v=HyzTvLc2k3w&t=4s) / [Summary PDF](https://github.com/engineerjkk/implementing-Papers/blob/main/05.PoseNet/PoseNet%20Presentation.pdf) / [Code Practice]
 
-* [Capstone Design]()
+* [Capstone Design](https://github.com/engineerjkk/CapstoneDesign)
+   * [Summary PDF](https://github.com/engineerjkk/CapstoneDesign/blob/main/CapstoneDesign%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) / Video
 
 My Study history 1 : [Image Processing](https://github.com/engineerjkk/Image_Processing) and [Deep Learning](https://github.com/engineerjkk/Deep_Learning)  
 
