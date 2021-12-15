@@ -15,6 +15,8 @@
 * [Capstone Design](https://github.com/engineerjkk/CapstoneDesign)
    * [Summary PDF](https://github.com/engineerjkk/CapstoneDesign/blob/main/CapstoneDesign%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) / Video
 
+* [Paper](https://github.com/engineerjkk/PaperReview/blob/main/A%20Method%20to%20Enhance%20the%20Accuracy%20of%20Braille%20Block%20Recognition%20for%20Walking%20Assistance%20of%20the%20Visually%20Impaired_Using%20YOLOv5%20and%20Analysis%20of%20Vertex%20Coordinates.pdf)
+
 My Study history 1 : [Image Processing](https://github.com/engineerjkk/Image_Processing) and [Deep Learning](https://github.com/engineerjkk/Deep_Learning)  
 
 My Study history 2 : Data Structure and Algorithm in [C](https://github.com/engineerjkk/AlgortihmsAndDataStructures), [Python](https://github.com/engineerjkk/DataStructure-in-Python)  
@@ -22,12 +24,6 @@ My Study history 2 : Data Structure and Algorithm in [C](https://github.com/engi
 My Study history 3: Data Science [Pandas](https://github.com/engineerjkk/Pandas) 
 
 My Study history 4: Hard Ware and Firm Ware [SMPS](https://github.com/engineerjkk/SMPS) and [BLDC Motor](https://github.com/engineerjkk/BLDC_Motor_Controller) and [Smart Bed](https://github.com/engineerjkk/Smart-Bed)
-
-
-
-**Paper** :   
-1. [A Method to Enhance the Accuracy of Braille Block Recognition for Walking Assistance of the Visually Impaired : Using YOLOv5 and Analysis of Vertex Coordinates](https://github.com/engineerjkk/PaperReview/blob/main/A%20Method%20to%20Enhance%20the%20Accuracy%20of%20Braille%20Block%20Recognition%20for%20Walking%20Assistance%20of%20the%20Visually%20Impaired_Using%20YOLOv5%20and%20Analysis%20of%20Vertex%20Coordinates.pdf)  
-2. [A Study on YOLOv5 and Mean Hash Matching Method for Stable Braille Block Recognition](https://github.com/engineerjkk/PaperReview/blob/main/A%20Study%20on%20YOLOv5%20and%20Mean%20Hash%20Matching%20Method%20for%20Stable%20Braille%20Block%20Recognition.pdf)
 
 
 <!--
