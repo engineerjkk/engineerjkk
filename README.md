@@ -1,6 +1,6 @@
 ### Junekoo Kang 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fengineerjkk&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-**My own works** 
+**My own Paper Review** 
 * [LeNet(1998)](https://github.com/engineerjkk/implementing-Papers/tree/main/01.LeNet(1998))
   * [Original Paper Link](https://github.com/engineerjkk/implementing-Papers/blob/main/01.LeNet(1998)/LeNet-5.pdf) / [Paper Review Video] / [Summary PDF](https://github.com/engineerjkk/implementing-Papers/blob/main/01.LeNet(1998)/LeNet_Presentation.pdf) / [Code Practice](https://github.com/engineerjkk/implementing-Papers/blob/main/01.LeNet(1998)/LeNet.ipynb)
 * [AlexNet(2012)](https://github.com/engineerjkk/implementing-Papers/tree/main/02.AlexNet(2012))
@@ -10,7 +10,8 @@
   * [Original Paper Link](https://github.com/engineerjkk/implementing-Papers/blob/main/04.ResNet/ResNet.pdf) / [Paper Review Video] / [Summary PDF](https://github.com/engineerjkk/implementing-Papers/blob/main/04.ResNet/ResNet%20Presentation.pdf) / [Code Practice](https://github.com/engineerjkk/implementing-Papers/blob/main/04.ResNet/ResNet.py)
  * [PoseNet(2016)](https://github.com/engineerjkk/implementing-Papers/tree/main/05.PoseNet)  
    * [Original Paper Link](https://github.com/engineerjkk/implementing-Papers/blob/main/05.PoseNet/PoseNet.pdf) / [Paper Review Video](https://www.youtube.com/watch?v=HyzTvLc2k3w&t=4s) / [Summary PDF](https://github.com/engineerjkk/implementing-Papers/blob/main/05.PoseNet/PoseNet%20Presentation.pdf) / [Code Practice]
-
+  
+**My own works** 
 * [Capstone Design](https://github.com/engineerjkk/CapstoneDesign)
    * [Summary PDF](https://github.com/engineerjkk/CapstoneDesign/blob/main/CapstoneDesign%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) / Video
 
