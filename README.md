@@ -11,7 +11,7 @@
  * [PoseNet(2016)](https://github.com/engineerjkk/implementing-Papers/tree/main/05.PoseNet)  
    * [Original Paper Link](https://github.com/engineerjkk/implementing-Papers/blob/main/05.PoseNet/PoseNet.pdf) / [Paper Review Video](https://www.youtube.com/watch?v=HyzTvLc2k3w&t=4s) / [Summary PDF](https://github.com/engineerjkk/implementing-Papers/blob/main/05.PoseNet/PoseNet%20Presentation.pdf) / [Code Practice]
  * U-Net(2015)
-   * Original Paper Link / Paper Review Video / Summary PDF / [Code Practice]
+   * [Original Paper Link](https://github.com/engineerjkk/implementing-Papers/blob/main/06.UNet/(2015)U-Net.pdf) / Paper Review Video / Summary PDF / [Code Practice](https://github.com/engineerjkk/implementing-Papers/blob/main/06.UNet/unet.ipynb)
   
 **My own Works** 
 * Capstone Design
