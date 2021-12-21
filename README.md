@@ -10,7 +10,7 @@
   * [Original Paper Link](https://github.com/engineerjkk/implementing-Papers/blob/main/04.ResNet/ResNet.pdf) / [Paper Review Video] / [Summary PDF](https://github.com/engineerjkk/implementing-Papers/blob/main/04.ResNet/ResNet%20Presentation.pdf) / [Code Practice](https://github.com/engineerjkk/implementing-Papers/blob/main/04.ResNet/ResNet.py)
  * [PoseNet(2016)](https://github.com/engineerjkk/implementing-Papers/tree/main/05.PoseNet)  
    * [Original Paper Link](https://github.com/engineerjkk/implementing-Papers/blob/main/05.PoseNet/PoseNet.pdf) / [Paper Review Video](https://www.youtube.com/watch?v=HyzTvLc2k3w&t=4s) / [Summary PDF](https://github.com/engineerjkk/implementing-Papers/blob/main/05.PoseNet/PoseNet%20Presentation.pdf) / [Code Practice]
- * PoseNet(2016)
+ * U-Net(2015)
    * Original Paper Link / Paper Review Video / Summary PDF / [Code Practice]
   
 **My own Works** 
