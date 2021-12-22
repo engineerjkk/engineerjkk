@@ -16,7 +16,7 @@
 **My own Works** 
 * Capstone Design
    * [딥러닝을 활용한 위험상황 인지 시스템 개발](https://github.com/engineerjkk/CapstoneDesign)
-   * [Summary PDF](https://github.com/engineerjkk/CapstoneDesign/blob/main/CapstoneDesign%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) / Video
+   * [Summary PDF](https://github.com/engineerjkk/CapstoneDesign/blob/main/CapstoneDesign%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) / [발표영상](https://www.youtube.com/watch?v=MaQp2NTFgFk)
 
 * Paper
    * [시각 장애인의 보행 보조를 위한 점자블록 인식 정확도 향상 방안 : YOLOv5와 꼭짓점 좌표 분석 활용](https://github.com/engineerjkk/PaperReview/blob/main/A%20Method%20to%20Enhance%20the%20Accuracy%20of%20Braille%20Block%20Recognition%20for%20Walking%20Assistance%20of%20the%20Visually%20Impaired_Using%20YOLOv5%20and%20Analysis%20of%20Vertex%20Coordinates.pdf)
