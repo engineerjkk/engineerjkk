@@ -19,7 +19,8 @@
    * [Summary PDF](https://github.com/engineerjkk/CapstoneDesign/blob/main/CapstoneDesign%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) / Video
 
 * Paper
-   * [시각 장애인의 보행 보조를 위한 점자블록 인식 정확도 향상 방안 : YOLOv5와 꼭짓점 좌표 분석 활용](https://github.com/engineerjkk/PaperReview/blob/main/A%20Method%20to%20Enhance%20the%20Accuracy%20of%20Braille%20Block%20Recognition%20for%20Walking%20Assistance%20of%20the%20Visually%20Impaired_Using%20YOLOv5%20and%20Analysis%20of%20Vertex%20Coordinates.pdf)  
+   * [시각 장애인의 보행 보조를 위한 점자블록 인식 정확도 향상 방안 : YOLOv5와 꼭짓점 좌표 분석 활용](https://github.com/engineerjkk/PaperReview/blob/main/A%20Method%20to%20Enhance%20the%20Accuracy%20of%20Braille%20Block%20Recognition%20for%20Walking%20Assistance%20of%20the%20Visually%20Impaired_Using%20YOLOv5%20and%20Analysis%20of%20Vertex%20Coordinates.pdf)
+     * [발표영상](https://www.youtube.com/watch?v=yjXDbUI6TLE&t=60s)   
    * [안정적인 점자블록의 인식을 위한 YOLOv5와 평균 해시 매칭 기법 연구](https://github.com/engineerjkk/PaperReview/blob/main/A%20Study%20on%20YOLOv5%20and%20Mean%20Hash%20Matching%20Method%20for%20Stable%20Braille%20Block%20Recognition.pdf)
  
 My Study history 1 : [Image Processing](https://github.com/engineerjkk/Image_Processing) and [Deep Learning](https://github.com/engineerjkk/Deep_Learning)  
