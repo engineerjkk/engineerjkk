@@ -2,14 +2,14 @@
 
 **Paper Review** 
 * [LeNet(1998)](https://github.com/engineerjkk/implementing-Papers/tree/main/01.LeNet(1998))
-  * [Original Paper Link](https://github.com/engineerjkk/implementing-Papers/blob/main/01.LeNet(1998)/LeNet-5.pdf) / [Paper Review Video] / [Summary PDF](https://github.com/engineerjkk/implementing-Papers/blob/main/01.LeNet(1998)/LeNet_Presentation.pdf) / [Code Practice](https://github.com/engineerjkk/implementing-Papers/blob/main/01.LeNet(1998)/LeNet.ipynb)
+  * [Original Paper Link](https://github.com/engineerjkk/implementing-Papers/blob/main/01.LeNet(1998)/LeNet-5.pdf) / [Paper Review Video](https://www.youtube.com/watch?v=28SQ9wJ74vU) / [Summary PDF](https://github.com/engineerjkk/implementing-Papers/blob/main/01.LeNet(1998)/LeNet_Presentation.pdf) / [Code Practice](https://github.com/engineerjkk/implementing-Papers/blob/main/01.LeNet(1998)/LeNet.ipynb)
 * [AlexNet(2012)](https://github.com/engineerjkk/implementing-Papers/tree/main/02.AlexNet(2012))
   * [Original Paper Link](https://github.com/engineerjkk/implementing-Papers/blob/main/02.AlexNet(2012)/AlexNet.pdf) / [Paper Review Video] / [Summary PDF](https://github.com/engineerjkk/implementing-Papers/blob/main/02.AlexNet(2012)/AlexNet%20Presentation.pdf) / [Code Practice](https://github.com/engineerjkk/implementing-Papers/blob/main/02.AlexNet(2012)/AlexNet.ipynb)
   * [PCA](https://github.com/engineerjkk/Python-for-LinearAlgebra/tree/main/Principal%20Component%20Analysis)
 * [ResNet(2015)](https://github.com/engineerjkk/implementing-Papers/tree/main/04.ResNet)
-  * [Original Paper Link](https://github.com/engineerjkk/implementing-Papers/blob/main/04.ResNet/ResNet.pdf) / [Paper Review Video] / [Summary PDF](https://github.com/engineerjkk/implementing-Papers/blob/main/04.ResNet/ResNet%20Presentation.pdf) / [Code Practice](https://github.com/engineerjkk/implementing-Papers/blob/main/04.ResNet/ResNet.py)
+  * [Original Paper Link](https://github.com/engineerjkk/implementing-Papers/blob/main/04.ResNet/ResNet.pdf) / [Paper Review Video](https://www.youtube.com/watch?v=iadEDPoEME8) / [Summary PDF](https://github.com/engineerjkk/implementing-Papers/blob/main/04.ResNet/ResNet%20Presentation.pdf) / [Code Practice](https://github.com/engineerjkk/implementing-Papers/blob/main/04.ResNet/ResNet.py)
  * [PoseNet(2016)](https://github.com/engineerjkk/implementing-Papers/tree/main/05.PoseNet)  
-   * [Original Paper Link](https://github.com/engineerjkk/implementing-Papers/blob/main/05.PoseNet/PoseNet.pdf) / [Paper Review Video](https://www.youtube.com/watch?v=HyzTvLc2k3w&t=4s) / [Summary PDF](https://github.com/engineerjkk/implementing-Papers/blob/main/05.PoseNet/PoseNet%20Presentation.pdf) / [Code Practice]
+   * [Original Paper Link](https://github.com/engineerjkk/implementing-Papers/blob/main/05.PoseNet/PoseNet.pdf) / [Paper Review Video](https://www.youtube.com/watch?v=QLQ3HEWIN0M) / [Summary PDF](https://github.com/engineerjkk/implementing-Papers/blob/main/05.PoseNet/PoseNet%20Presentation.pdf) / [Code Practice]
  * [U-Net(2015)](https://github.com/engineerjkk/implementing-Papers/tree/main/06.UNet)
    * [Original Paper Link](https://github.com/engineerjkk/implementing-Papers/blob/main/06.UNet/(2015)U-Net.pdf) / [Paper Review Video](https://youtu.be/_8FGIo565HQ) / [Summary PDF](https://github.com/engineerjkk/implementing-Papers/blob/main/06.UNet/UNet%20Presentation.pdf) / [Code Practice](https://github.com/engineerjkk/implementing-Papers/blob/main/06.UNet/unet.ipynb)
   
