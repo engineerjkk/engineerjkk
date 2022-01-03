@@ -13,7 +13,7 @@
  * [U-Net(2015)](https://github.com/engineerjkk/implementing-Papers/tree/main/06.UNet)
    * [Original Paper Link](https://github.com/engineerjkk/implementing-Papers/blob/main/06.UNet/(2015)U-Net.pdf) / [Paper Review Video](https://youtu.be/_8FGIo565HQ) / [Summary PDF](https://github.com/engineerjkk/implementing-Papers/blob/main/06.UNet/UNet%20Presentation.pdf) / [Code Practice](https://github.com/engineerjkk/implementing-Papers/blob/main/06.UNet/unet.ipynb)
  * Structure from Motion
-   * [Summary PDF](https://github.com/engineerjkk/implementing-Papers/blob/main/07.Structure%20from%20Motion/SfM%20Presentation.pdf) / Technique Review Video / Practice
+   * [Summary PDF](https://github.com/engineerjkk/implementing-Papers/blob/main/07.Structure%20from%20Motion/SfM%20Presentation.pdf) / [Technique Review Video](https://www.youtube.com/watch?v=LBW7a2UkRJI&t=282s) / [Practice1](https://www.youtube.com/watch?v=o-JJ2-iSWhw&t=331s) / [Practive2](https://www.youtube.com/watch?v=4Wa9L4g6sFI)
   
 **My own Works** 
 * Capstone Design
