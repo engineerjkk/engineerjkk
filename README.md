@@ -1,4 +1,6 @@
-### Junekoo Kang 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fengineerjkk&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fengineerjkk&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### Hi, I'am Junekoo Kang. I'am currently studying AI and Computervision, Specifically Visual SLAM and Deep SLAM  
+
 
 **Paper Review** 
 * [LeNet(1998)](https://github.com/engineerjkk/implementing-Papers/tree/main/01.LeNet(1998))
