@@ -2,8 +2,8 @@
 **Hi, I'm Junekoo Kang, a MS student in Chung-Ang University.  
 Currently studying AI and Computer vision, Specifically Visual SLAM and 3D Reconstruction.**  
 
-![image](https://user-images.githubusercontent.com/76835313/148725103-50e04d7f-42b6-46e6-9933-25f4fe27f329.png) 
-### [My YouTube Channel](https://www.youtube.com/channel/UClTkYrcqEdDlGpzAyEHjnzw)
+
+### [My YouTube Channel](https://www.youtube.com/channel/UClTkYrcqEdDlGpzAyEHjnzw)![image](https://user-images.githubusercontent.com/76835313/148725103-50e04d7f-42b6-46e6-9933-25f4fe27f329.png) 
 
 
 **Paper Review** 
