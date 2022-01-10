@@ -1,4 +1,4 @@
-👋**Hi, I'm Junekoo Kang, a MS student in Chung-Ang University.  
+👋 **Hi, I'm Junekoo Kang, a MS student in Chung-Ang University.  
 Currently studying AI and Computer vision, Specifically Visual SLAM and 3D Reconstruction.**  
 
 
