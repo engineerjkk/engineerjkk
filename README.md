@@ -1,5 +1,4 @@
-👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fengineerjkk&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
-**Hi, I'm Junekoo Kang, a MS student in Chung-Ang University.  
+👋**Hi, I'm Junekoo Kang, a MS student in Chung-Ang University.  
 Currently studying AI and Computer vision, Specifically Visual SLAM and 3D Reconstruction.**  
 
 
@@ -56,3 +55,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fengineerjkk&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
