@@ -3,7 +3,7 @@
 Currently studying AI and Computer vision, Specifically Visual SLAM and 3D Reconstruction.**  
 
 
-![image](https://user-images.githubusercontent.com/76835313/148725322-e4275a9f-7b05-40ce-b9ca-cb1af442e87e.png) [My YouTube Channel](https://www.youtube.com/channel/UClTkYrcqEdDlGpzAyEHjnzw) 
+![image](https://user-images.githubusercontent.com/76835313/148725391-00d5057d-d85d-4f08-ba89-645724c2a4bb.png) [My YouTube Channel](https://www.youtube.com/channel/UClTkYrcqEdDlGpzAyEHjnzw) 
 
 
 **Paper Review** 
