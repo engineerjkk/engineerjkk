@@ -20,7 +20,7 @@ Currently studying AI and Computer Vision, Specifically Visual SLAM and 3D Recon
  * Structure from Motion
    * [Summary PDF](https://github.com/engineerjkk/implementing-Papers/blob/main/07.Structure%20from%20Motion/SfM%20Presentation.pdf) / [Technique Review Video](https://www.youtube.com/watch?v=LBW7a2UkRJI&t=282s) / [Practice1](https://www.youtube.com/watch?v=o-JJ2-iSWhw&t=331s) / [Practice2](https://www.youtube.com/watch?v=4Wa9L4g6sFI)
  * 카메라 위치 파악을 위한 복셀 표현의 covisibility 기반 참조 이미지 클러스터링
-   * [Summary PDF](https://github.com/engineerjkk/Ph.D-LeeSY/blob/main/%EC%B9%B4%EB%A9%94%EB%9D%BC%20%EC%9C%84%EC%B9%98%20%ED%8C%8C%EC%95%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EB%B3%B5%EC%85%80%20%ED%91%9C%ED%98%84%EC%9D%98%20covisibility%20%EA%B8%B0%EB%B0%98%20%EC%B0%B8%EC%A1%B0%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.pdf) / [Paper Review Video](https://www.youtube.com/watch?v=V3O4fkmb6lo&t=266s) / Original Paper Link / Code Practice
+   * Original Paper Link / [Paper Review Video](https://www.youtube.com/watch?v=V3O4fkmb6lo&t=266s) / [Summary PDF](https://github.com/engineerjkk/Ph.D-LeeSY/blob/main/%EC%B9%B4%EB%A9%94%EB%9D%BC%20%EC%9C%84%EC%B9%98%20%ED%8C%8C%EC%95%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EB%B3%B5%EC%85%80%20%ED%91%9C%ED%98%84%EC%9D%98%20covisibility%20%EA%B8%B0%EB%B0%98%20%EC%B0%B8%EC%A1%B0%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.pdf) / Code Practice
   
 **My own Works** 
 * Capstone Design
