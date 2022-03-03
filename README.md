@@ -4,9 +4,6 @@
 Currently studying AI and Computer Vision, Specifically Visual SLAM, Localizatoin and 3D Reconstruction.**  
 
 
-![image](https://user-images.githubusercontent.com/76835313/148725391-00d5057d-d85d-4f08-ba89-645724c2a4bb.png) [My YouTube Channel](https://www.youtube.com/channel/UClTkYrcqEdDlGpzAyEHjnzw) 
-
-
 **Paper Review** 
 * [LeNet(1998)](https://github.com/engineerjkk/implementing-Papers/tree/main/01.LeNet(1998))
   * [Original Paper Link](https://github.com/engineerjkk/implementing-Papers/blob/main/01.LeNet(1998)/LeNet-5.pdf) / [Paper Review Video](https://www.youtube.com/watch?v=28SQ9wJ74vU) / [Summary PDF](https://github.com/engineerjkk/implementing-Papers/blob/main/01.LeNet(1998)/LeNet_Presentation.pdf) / [Code Practice](https://github.com/engineerjkk/implementing-Papers/blob/main/01.LeNet(1998)/LeNet.ipynb)
