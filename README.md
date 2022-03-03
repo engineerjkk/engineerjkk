@@ -1,7 +1,7 @@
 [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UClTkYrcqEdDlGpzAyEHjnzw)
 
-👋 **Hi, I'm Junekoo Kang, a MS student in Chung-Ang University.  
-Currently studying AI and Computer Vision, Specifically Visual SLAM, Localizatoin and 3D Reconstruction.**  
+👋 **Hi, I'm Junekoo Kang, 
+Currently studying Computer Vision and Deep Learning in Application Software in Computer Science and Engineering, at Chung-Ang University .**  
 
 
 **Paper Review** 
