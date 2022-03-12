@@ -24,6 +24,8 @@ in Application Software in Computer Science and Engineering, at Chung-Ang Univer
    * [Original Paper Link](https://github.com/engineerjkk/Ph.D-LeeSY/blob/main/Clustering%20reference%20images%20based%20on%20the%20covisibility%20in%20voxel%20representation%20for%20camera%20localization.pdf) / [Paper Review Video](https://www.youtube.com/watch?v=V3O4fkmb6lo&t=266s) / [Summary PDF](https://github.com/engineerjkk/Ph.D-LeeSY/blob/main/%EC%B9%B4%EB%A9%94%EB%9D%BC%20%EC%9C%84%EC%B9%98%20%ED%8C%8C%EC%95%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EB%B3%B5%EC%85%80%20%ED%91%9C%ED%98%84%EC%9D%98%20covisibility%20%EA%B8%B0%EB%B0%98%20%EC%B0%B8%EC%A1%B0%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.pdf) / [자세한 리뷰 2 및 실습](https://www.youtube.com/watch?v=PkjMhJO28BQ&t=7s)
  * 그래프 뉴럴 네트워크 (Graph Neural Network)
    * [Summary PDF](https://github.com/engineerjkk/implementing-Papers/blob/main/11.Graph%20Neural%20Network/Graph%20Neural%20Network.pdf) / [Video Presentation](https://www.youtube.com/watch?v=9eMbvfRM9_8)
+ * Attention Is All You Need : Transformer 
+   * [Summary PDF](https://github.com/engineerjkk/implementing-Papers/blob/main/12.%20Transformer/Transformer.pdf) / [Video Presentation](https://www.youtube.com/watch?v=URci3Eqz3hc&t=110s)
   
 **My own Works** 
 * Capstone Design
