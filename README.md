@@ -27,7 +27,7 @@ in Application Software in Computer Science and Engineering, at Chung-Ang Univer
  * Attention Is All You Need : Transformer 
    * [Summary PDF](https://github.com/engineerjkk/implementing-Papers/blob/main/12.%20Transformer/Transformer.pdf) / [Video Presentation](https://www.youtube.com/watch?v=URci3Eqz3hc&t=110s)
  * Graph Attention Networks
-   * [Original Paper](https://arxiv.org/abs/1710.10903) [Summary PDF](https://github.com/engineerjkk/implementing-Papers/blob/main/13.%20Graph%20Attention%20Networks/Graph%20Attention%20Networks%20Summary.pdf) / [Video Presentation](https://www.youtube.com/watch?v=0Z5IT6Nx8Qs&t=342s) 
+   * [Original Paper](https://arxiv.org/abs/1710.10903) / [Summary PDF](https://github.com/engineerjkk/implementing-Papers/blob/main/13.%20Graph%20Attention%20Networks/Graph%20Attention%20Networks%20Summary.pdf) / [Video Presentation](https://www.youtube.com/watch?v=0Z5IT6Nx8Qs&t=342s) 
   
 **My own Works** 
 * Capstone Design
