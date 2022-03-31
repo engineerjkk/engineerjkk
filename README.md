@@ -1,7 +1,6 @@
 [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UClTkYrcqEdDlGpzAyEHjnzw)
 
-👋 **Hi, I'm Junekoo Kang, Currently studying Computer Vision and Deep Learning   
-in Application Software in Computer Science and Engineering, at Chung-Ang University .**  
+👋 **Hi, I'm Junekoo Kang, My research interests lie in the interplay between Computer Vision, 3D Geometry, and Deep Learning. 
 
 
 **Paper Review** 
