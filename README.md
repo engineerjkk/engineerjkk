@@ -29,6 +29,12 @@
    * [Original Paper](https://arxiv.org/abs/1710.10903) / [Summary PDF](https://github.com/engineerjkk/implementing-Papers/blob/main/13.%20Graph%20Attention%20Networks/Graph%20Attention%20Networks%20Summary.pdf) / [Video Presentation](https://www.youtube.com/watch?v=0Z5IT6Nx8Qs&t=342s) 
  * Graph Convolutional Networks
    * [Original Paper](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkFNRW1BU3FkWUgzQjdfdkpMTzRSbFlLWkZRUXxBQ3Jtc0trUUM5R3JZVTJJMnZhRVVBNDBqTU9UUzlfa25NRXhWYU1qNEhKN1BtOFhJcVBvdFpsbVdGTmxMSFJNb2V2YXJ3dXRMYTdSWVNYWkJ6WmJjNUJTNFhZQktlUzBUdTN6ckh5LUlRel9TbzloWDIxaUZvRQ&q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1p8AZlxQM1X93xnRoS-MrZsJ7VevzVOO7%2Fview%3Fusp%3Dsharing) / Summary PDF / [Video Presentation](https://www.youtube.com/watch?v=JfBMCFVEuoM) / [Code Practice](https://github.com/engineerjkk/GraphNeuralNetwork)
+  * Recommender System
+   * [Using Graph Neural Network](https://www.youtube.com/watch?v=aPqg2KQhZ7I&t=1s), [Using Cosine Similiarty](https://www.youtube.com/watch?v=UgnolyhTz-w&t=52s) 
+  * Visual Navigation
+   * [Neural Topological SLAM for Visual Navigation](https://www.youtube.com/watch?v=eqpLQy8qZyQ&t=31s)
+  * Visual Localization 소개
+   * [Introduction to Camera Pose Estimation with Deep Learning](https://www.youtube.com/watch?v=uwPNc5jjJPQ&t=351s)     
   
 **My own Works** 
 * Capstone Design
