@@ -15,6 +15,8 @@
    * [Original Paper Link](https://github.com/engineerjkk/implementing-Papers/blob/main/05.PoseNet/PoseNet.pdf) / [Paper Review Video](https://www.youtube.com/watch?v=QLQ3HEWIN0M) / [Summary PDF](https://github.com/engineerjkk/implementing-Papers/blob/main/05.PoseNet/PoseNet%20Presentation.pdf) / [Code Practice](https://drive.google.com/drive/folders/19P1yU4HAmjYRiVjuhGXh2Weqgf1rpdbW?usp=sharing) / [Code Practice Video](https://www.youtube.com/watch?v=US6Nr9DWuvg)
  * [U-Net(2015)](https://github.com/engineerjkk/implementing-Papers/tree/main/06.UNet)
    * [Original Paper Link](https://github.com/engineerjkk/implementing-Papers/blob/main/06.UNet/(2015)U-Net.pdf) / [Paper Review Video](https://youtu.be/_8FGIo565HQ) / [Summary PDF](https://github.com/engineerjkk/implementing-Papers/blob/main/06.UNet/UNet%20Presentation.pdf) / [Code Practice](https://github.com/engineerjkk/implementing-Papers/tree/main/06.UNet/UNet)
+ * [MobileNet](https://www.youtube.com/watch?v=91Qipj5NMnk&t=197s)
+ * [Vision Transformer](https://www.youtube.com/watch?v=JuEeRdRG_2E&t=244s)
  * Structure from Motion
    * [Summary PDF](https://github.com/engineerjkk/implementing-Papers/blob/main/07.Structure%20from%20Motion/SfM%20Presentation.pdf) / [Video Presentation](https://www.youtube.com/watch?v=LBW7a2UkRJI&t=282s) / [Practice1](https://www.youtube.com/watch?v=o-JJ2-iSWhw&t=331s) / [Practice2](https://www.youtube.com/watch?v=4Wa9L4g6sFI)
    * [Reprojection을 위한 카메라 캘리브레이션 OpenCV & Python [Video] ](https://www.youtube.com/watch?v=iOmYtms45ho&t=308s)
@@ -34,7 +36,15 @@
   * Visual Navigation
     * [Neural Topological SLAM for Visual Navigation](https://www.youtube.com/watch?v=eqpLQy8qZyQ&t=31s)
   * Visual Localization 소개
-    * [Introduction to Camera Pose Estimation with Deep Learning](https://www.youtube.com/watch?v=uwPNc5jjJPQ&t=351s)     
+    * [Introduction to Camera Pose Estimation with Deep Learning](https://www.youtube.com/watch?v=uwPNc5jjJPQ&t=351s)  
+  * 2015,2016,2017년도 End-to-End Visual Localization
+    * [Baysian PoseNet, LSTM-Pose, VidLoc, Hourglass-Pose](https://www.youtube.com/watch?v=4iz1117aOc8&t=286s)
+  * 2017, 2019년도 End-to-End Visual Localization
+    * [PoseNet2, AtLoc](https://www.youtube.com/watch?v=t0QdVTT8X3o&t=612s)
+  * 2021년도 End-to-End Visual Localization
+    * [CaTiLoc](https://www.youtube.com/watch?v=eOy39lm-HHQ&t=518s)
+  * Visual Place Recognition
+    * [NetVLAD](https://www.youtube.com/watch?v=XIA-9JjNA34&t=631s)
   
 **My own Works** 
 * Capstone Design
