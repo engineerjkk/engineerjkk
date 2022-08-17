@@ -42,9 +42,11 @@
   * 2017, 2019년도 End-to-End Visual Localization
     * [PoseNet2, AtLoc](https://www.youtube.com/watch?v=t0QdVTT8X3o&t=612s)
   * 2021년도 End-to-End Visual Localization
-    * [CaTiLoc](https://www.youtube.com/watch?v=eOy39lm-HHQ&t=518s)
+    * [Original Paper Link](https://ieeexplore.ieee.org/document/9414939) / [CaTiLoc](https://www.youtube.com/watch?v=eOy39lm-HHQ&t=518s)
   * Visual Place Recognition
-    * [NetVLAD](https://www.youtube.com/watch?v=XIA-9JjNA34&t=631s)
+    * [Original Paper Link](https://arxiv.org/abs/1511.07247) / [NetVLAD : CNN architecture for weakly supervised place recognition](https://www.youtube.com/watch?v=XIA-9JjNA34&t=631s)
+  * Image Representation
+    * [Original Paper Link](https://arxiv.org/abs/2002.05709?context=stat.ML) / [A Simple Framework for Contrastive Learning of Visual Representation](https://www.youtube.com/watch?v=uDLJiG39Pto&t=2s)
   
 **My own Works** 
 * Capstone Design
