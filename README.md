@@ -37,7 +37,8 @@
      
  * Recommender System, 추천 시스템
    * Recommender System
-      * [Using Graph Neural Network](https://www.youtube.com/watch?v=aPqg2KQhZ7I&t=1s), [Using Cosine Similiarty](https://www.youtube.com/watch?v=UgnolyhTz-w&t=52s) 
+      * [Using Graph Neural Network](https://www.youtube.com/watch?v=aPqg2KQhZ7I&t=1s)
+      * [Using Cosine Similiarty](https://www.youtube.com/watch?v=UgnolyhTz-w&t=52s) 
   
  * Visual Localization, 카메라 포즈 위치 추정
      * Visual Localization 소개
