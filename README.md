@@ -59,7 +59,10 @@
    * [안정적인 점자블록의 인식을 위한 YOLOv5와 평균 해시 매칭 기법 연구](https://github.com/engineerjkk/PaperReview/blob/main/A%20Study%20on%20YOLOv5%20and%20Mean%20Hash%20Matching%20Method%20for%20Stable%20Braille%20Block%20Recognition.pdf)
 
 * Patent
-  * [도전성 동부직포를 이용한 공기 환기필터 교체 시기 알림장치, 출원일 2020년 12월 15일, 등록일 2022년 04월 22일](https://github.com/engineerjkk/Patent/blob/main/%EB%8F%84%EC%A0%84%EC%84%B1%20%EB%8F%99%EB%B6%80%EC%A7%81%ED%8F%AC%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EA%B3%B5%EA%B8%B0%20%ED%99%98%EA%B8%B0%ED%95%84%ED%84%B0%20%EA%B5%90%EC%B2%B4%20%EC%8B%9C%EA%B8%B0%20%EC%95%8C%EB%A6%BC%20%EC%9E%A5%EC%B9%98.pdf)
+  * [도전성 동부직포를 이용한 공기 환기필터 교체 시기 알림장치](https://github.com/engineerjkk/Patent/blob/main/%EB%8F%84%EC%A0%84%EC%84%B1%20%EB%8F%99%EB%B6%80%EC%A7%81%ED%8F%AC%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EA%B3%B5%EA%B8%B0%20%ED%99%98%EA%B8%B0%ED%95%84%ED%84%B0%20%EA%B5%90%EC%B2%B4%20%EC%8B%9C%EA%B8%B0%20%EC%95%8C%EB%A6%BC%20%EC%9E%A5%EC%B9%98.pdf) 
+   -  출원일 2020년 12월 15일, 등록일 2022년 04월 22일  
+  
+  
 My Study history 1 : [Image Processing](https://github.com/engineerjkk/Image_Processing) and [Deep Learning](https://github.com/engineerjkk/Deep_Learning)  
 
 My Study history 2 : Data Structure and Algorithm in [C](https://github.com/engineerjkk/AlgortihmsAndDataStructures), [Python](https://github.com/engineerjkk/DataStructure-in-Python)  
