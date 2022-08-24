@@ -1,6 +1,11 @@
 [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UClTkYrcqEdDlGpzAyEHjnzw)
 
-👋 **Hi, I'm Junekoo Kang, My research interests lie in the interplay between Computer Vision, 3D Geometry, and Deep Learning.**
+👋 **Hi, I'm Junekoo Kang, My research interests lie in the interplay between Computer Vision, 3D Geometry, and Deep Learning.**  
+
+컴퓨터 비전, 3D 기하학 및 딥러닝 간의 서로 상호 작용하는 연구에 관심이 있습니다.  
+My research interests lie in the interplay between Computer Vision, 3D Geometry and Deep Learning.  
+
+관심 분야 : Visual Localization, 3D Reconstruction, SLAM, Structure-from-Motion(SfM), AR/VR
 
 
 **Paper Review** 
