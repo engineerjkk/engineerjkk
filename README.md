@@ -5,7 +5,10 @@
 컴퓨터 비전, 3D 기하학 및 딥러닝 간의 서로 상호 작용하는 연구에 관심이 있습니다.  
 My research interests lie in the interplay between Computer Vision, 3D Geometry and Deep Learning.  
 
-관심 분야 : Visual Localization, 3D Reconstruction, SLAM, Structure-from-Motion(SfM), AR/VR
+관심 분야 : Visual Localization, 3D Reconstruction, SLAM, Structure-from-Motion(SfM), AR/VR, View Synthesis
+
+View Synthesis : 2D 이미지를 Implicit Function을 통해 3D 이미지로 Reconstruction 하고, 새로운 카메라 각도에서 이미지를 렌더링 할 수 있는 방법론   
+  - 적은 수의 2D 이미지 만으로도 3D Reconstruction이 가능하고, 새로운 카메라 각도에서 이미지를 렌더링하여 3D 이미지 구현 성능을 향상시킬 수 있는 중요한 기술이기 때문입니다. 
 
 
 **Paper Review** 
