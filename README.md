@@ -72,9 +72,17 @@ View Synthesis : 2D 이미지를 Implicit Function을 통해 3D 이미지로 Rec
     * NetVLAD : CNN architecture for weakly supervised place recognition
         * [Original Paper Link](https://arxiv.org/abs/1511.07247) / Summary PDF/ [Paper review video](https://www.youtube.com/watch?v=XIA-9JjNA34&t=631s)
  
- * Image Representation
+* Contrastive Learning
+
+ * Unsupervised / Selsupervised Learning
     * A Simple Framework for Contrastive Learning of Visual Representation
         * [Original Paper Link](https://arxiv.org/abs/2002.05709?context=stat.ML) / [Paper review video](https://www.youtube.com/watch?v=uDLJiG39Pto&t=2s)
+    * Momentum Contrast for Unsupervised Visual Representation Learning
+        * [Original Paper Link](https://arxiv.org/abs/1911.05722) / [Paper review video](https://www.youtube.com/watch?v=mGroma3gcgE&t=19s)
+ * Supervised Learning
+    * Supervised Contrastive Learning
+        * [Original Paper Link](https://arxiv.org/abs/2004.11362) / [Paper review video](https://www.youtube.com/watch?v=nPBSf6RVI30&t=319s)
+ 
   
 **My own Works** 
 * Capstone Design
