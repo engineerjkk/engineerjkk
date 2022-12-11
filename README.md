@@ -85,7 +85,10 @@ View Synthesis : 2D 이미지를 Implicit Function을 통해 3D 이미지로 Rec
     * Supervised Contrastive Learning
         * [Original Paper Link](https://arxiv.org/abs/2004.11362) / [Paper review video](https://www.youtube.com/watch?v=nPBSf6RVI30&t=319s)
  
-  
+* Novel View Synthesis
+   * [NeRF(2020)]
+    * [Original Paper Link](https://arxiv.org/abs/2003.08934) / [Paper Review Video]([https://www.youtube.com/watch?v=28SQ9wJ74vU](https://www.youtube.com/watch?v=dyGCqLLBz50&t=256s))
+
 **My own Works** 
 * Capstone Design
    * [딥러닝을 활용한 위험상황 인지 시스템 개발](https://github.com/engineerjkk/CapstoneDesign)
