@@ -90,6 +90,8 @@ View Synthesis : 2D 이미지를 Implicit Function을 통해 3D 이미지로 Rec
 * Novel View Synthesis
    * [NeRF(2020)]
      * [Original Paper Link](https://arxiv.org/abs/2003.08934) / [Paper Review Video]([https://www.youtube.com/watch?v=28SQ9wJ74vU](https://www.youtube.com/watch?v=dyGCqLLBz50&t=256s))
+   * [2D 이미지를 인공지능써서 3D로 만드는 방법]
+     * [Video](https://www.youtube.com/watch?v=8_HlFKwiwGM&t=6s)
 
 **My own Works** 
 * Capstone Design
