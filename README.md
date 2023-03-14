@@ -3,7 +3,7 @@
 👋 **Hi, I'm Junekoo Kang, I am interested in solving 3D computer vision and geometry problems, especially large-scale visual mapping and localization, using Deep Learning.**  
 
 3D 컴퓨터비전과 기하학 문제를 푸는 연구에 관심이 있습니다. 특히 딥러닝을 활용한 대규모 데이터셋에서의 카메라 매핑 및 카메라 포즈 추정을 주로 연구합니다.
-I am interested in solving 3D computer vision and geometry problems, especially large-scale visual mapping and localization, using Deep Learning. 
+
 
 **주 연구분야 : Visual Localization, Novel View Synthesis**
 
