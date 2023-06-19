@@ -17,11 +17,6 @@
 - Novel View Synthesis(우) : 입력 영상에서 없었던 방향과 위치에서 바라보았을 때 해당 장면을 예측하는 인공지능 기술    
      
       
-    
-**SKT AI Fellowship 5기, AI기반 고화질 3D 변환 기술 (2023.05~2023.10)**  
-  
-- [연구계획](https://devocean.sk.com/blog/techBoardDetail.do?ID=165048&boardType=techBlog&searchData=&id=&vcode=&vcodeList=)  
-
 **Paper Review** 
 * Convolutional Neural Network
    * [LeNet(1998)](https://github.com/engineerjkk/implementing-Papers/tree/main/01.LeNet(1998))
@@ -105,6 +100,10 @@
      * [Video](https://www.youtube.com/watch?v=8_HlFKwiwGM&t=6s)
 
 **My own Works** 
+
+* SKT AI Fellowship 5기, AI기반 고화질 3D 변환 기술 (2023.05~2023.10)      
+   * [연구계획](https://devocean.sk.com/blog/techBoardDetail.do?ID=165048&boardType=techBlog&searchData=&id=&vcode=&vcodeList=)    
+    
 * Capstone Design
    * [딥러닝을 활용한 위험상황 인지 시스템 개발](https://github.com/engineerjkk/CapstoneDesign)
    * [Summary PDF](https://github.com/engineerjkk/CapstoneDesign/blob/main/CapstoneDesign%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) / [발표영상](https://www.youtube.com/watch?v=MaQp2NTFgFk)
