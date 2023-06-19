@@ -16,8 +16,8 @@
 
 ---
 <center class="half">
-    <img src="https://github.com/engineerjkk/engineerjkk/assets/76835313/388ba57d-acd1-4a7c-b41d-125e50f60146" title="Localization" width="300" /> 
-    <img src="https://github.com/engineerjkk/engineerjkk/assets/76835313/2e4439a8-353c-4cd4-8c03-44ded44c3b7a"title="NeRF" width="300" />   
+    <img src="https://github.com/engineerjkk/engineerjkk/assets/76835313/388ba57d-acd1-4a7c-b41d-125e50f60146" title="Localization" width="400" /> 
+    <img src="https://github.com/engineerjkk/engineerjkk/assets/76835313/2e4439a8-353c-4cd4-8c03-44ded44c3b7a"title="NeRF" width="400" />   
 <div align=center>	
   <Visual Localization(좌), Novel View Synthesis(우)>
 </div>
