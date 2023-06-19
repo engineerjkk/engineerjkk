@@ -12,8 +12,8 @@
 View Synthesis : 2D 이미지를 Implicit Function을 통해 3D 이미지로 Reconstruction 하고, 새로운 카메라 각도에서 이미지를 렌더링 할 수 있는 방법론   
   - 적은 수의 2D 이미지 만으로도 3D Reconstruction이 가능하고, 새로운 카메라 각도에서 이미지를 렌더링하여 3D 이미지 구현 성능을 향상시킬 수 있는 중요한 기술이기 때문입니다. 
 
-** SKT AI Fellowship 5기**
-1. [연구계획](https://devocean.sk.com/blog/techBoardDetail.do?ID=165048&boardType=techBlog&searchData=&id=&vcode=&vcodeList=)  
+**SKT AI Fellowship 5기 (2023.05~2023.10)**
+[1. 연구계획](https://devocean.sk.com/blog/techBoardDetail.do?ID=165048&boardType=techBlog&searchData=&id=&vcode=&vcodeList=)  
 
 **Paper Review** 
 * Convolutional Neural Network
