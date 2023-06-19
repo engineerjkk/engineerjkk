@@ -11,10 +11,12 @@
 
 <center class="half">
     <img src="https://github.com/engineerjkk/engineerjkk/assets/76835313/388ba57d-acd1-4a7c-b41d-125e50f60146" title="Localization" width="420" /> 
-    <img src="https://github.com/engineerjkk/engineerjkk/assets/76835313/2e4439a8-353c-4cd4-8c03-44ded44c3b7a"title="NeRF" width="420" />   
+    <img src="https://github.com/engineerjkk/engineerjkk/assets/76835313/2e4439a8-353c-4cd4-8c03-44ded44c3b7a"title="NeRF" width="420" />     
+    
 - Visual Localization(좌) : 대규모 데이터셋에서의 카메라 매핑 및 카메라 포즈를 추정하는 기술.
-- Novel View Synthesis(우) : 주로 NeRF(Neural Radiance Field)를 말하며, 입력 영상에서 없었던 방향과 위치에서 바라보았을 때 해당 장면을 예측하는 인공지능 기술  
+- Novel View Synthesis(우) : 주로 NeRF(Neural Radiance Field)를 말하며, 입력 영상에서 없었던 방향과 위치에서 바라보았을 때 해당 장면을 예측하는 인공지능 기술    
      
+      
     
 **SKT AI Fellowship 5기, AI기반 고화질 3D 변환 기술 (2023.05~2023.10)**  
   
