@@ -18,7 +18,7 @@
 <div align=center>	
   <Visual Localization(좌), Novel View Synthesis(우)>
 </div>  
---- 
+
 **SKT AI Fellowship 5기, AI기반 고화질 3D 변환 기술 (2023.05~2023.10)**  
   
 [1. 연구계획](https://devocean.sk.com/blog/techBoardDetail.do?ID=165048&boardType=techBlog&searchData=&id=&vcode=&vcodeList=)  
