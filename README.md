@@ -6,10 +6,10 @@
 
 
 **주 연구분야 : Visual Localization, Novel View Synthesis**
-![VisualLocalization](https://github.com/engineerjkk/engineerjkk/assets/76835313/388ba57d-acd1-4a7c-b41d-125e50f60146)
+![VisualLocalization](https://github.com/engineerjkk/engineerjkk/assets/76835313/388ba57d-acd1-4a7c-b41d-125e50f60146)  
 Visual Localization : 대규모 데이터셋에서의 카메라 매핑 및 카메라 포즈를 추정하는 기술.
 
-![KakaoTalk_20230615_185430134](https://github.com/engineerjkk/engineerjkk/assets/76835313/fd9a3f0a-1351-4bbe-b0df-b92c5dfcd89f)
+![KakaoTalk_20230615_185430134](https://github.com/engineerjkk/engineerjkk/assets/76835313/fd9a3f0a-1351-4bbe-b0df-b92c5dfcd89f)  
 Novel View Synthesis : 주로 NeRF(Neural Radiance Field)를 말하며, 입력 영상에서 없었던 방향과 위치에서 바라보았을 때 해당 장면을 예측하는 인공지능 기술
 
 **SKT AI Fellowship 5기, AI기반 고화질 3D 변환 기술 (2023.05~2023.10)**  
