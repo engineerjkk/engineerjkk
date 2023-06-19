@@ -10,7 +10,7 @@
 - 대규모 데이터셋에서의 카메라 매핑 및 카메라 포즈를 추정하는 기술.
 3. Novel View Synthesis(우) 
 - 주로 NeRF(Neural Radiance Field)를 말하며, 입력 영상에서 없었던 방향과 위치에서 바라보았을 때 해당 장면을 예측하는 인공지능 기술
-<!-- ![VisualLocalization](https://github.com/engineerjkk/engineerjkk/assets/76835313/388ba57d-acd1-4a7c-b41d-125e50f60146)  
+
 
 <center class="half">
     <img src="https://github.com/engineerjkk/engineerjkk/assets/76835313/388ba57d-acd1-4a7c-b41d-125e50f60146" title="Localization" width="420" /> 
