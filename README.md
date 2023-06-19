@@ -16,10 +16,10 @@
 
 ---
 <center class="half">
-    <img src="https://github.com/engineerjkk/engineerjkk/assets/76835313/388ba57d-acd1-4a7c-b41d-125e50f60146" title="Localization" width="500" /> 
-    <img src="https://github.com/engineerjkk/engineerjkk/assets/76835313/2e4439a8-353c-4cd4-8c03-44ded44c3b7a"title="NeRF" width="500" />   
+    <img src="https://github.com/engineerjkk/engineerjkk/assets/76835313/388ba57d-acd1-4a7c-b41d-125e50f60146" title="Localization" width="300" /> 
+    <img src="https://github.com/engineerjkk/engineerjkk/assets/76835313/2e4439a8-353c-4cd4-8c03-44ded44c3b7a"title="NeRF" width="300" />   
 <div align=center>	
-<Visual Localization(좌), Novel View Synthesis(우)>
+  <Visual Localization(좌), Novel View Synthesis(우)>
 </div>
 
 **SKT AI Fellowship 5기, AI기반 고화질 3D 변환 기술 (2023.05~2023.10)**  
