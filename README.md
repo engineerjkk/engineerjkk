@@ -13,8 +13,8 @@
 
 <center class="half">
     <img src="https://github.com/engineerjkk/engineerjkk/assets/76835313/11838fec-3497-4716-9e04-4ff6e382d605" title="Deep Metric Learning" width="250" height="175"/> 
-    <img src="https://github.com/engineerjkk/engineerjkk/assets/76835313/388ba57d-acd1-4a7c-b41d-125e50f60146" title="Visual Localization" width="350" /> 
-    <img src="https://github.com/engineerjkk/engineerjkk/assets/76835313/2e4439a8-353c-4cd4-8c03-44ded44c3b7a"title="NeRF" width="350" />     
+    <img src="https://github.com/engineerjkk/engineerjkk/assets/76835313/388ba57d-acd1-4a7c-b41d-125e50f60146" title="Visual Localization" width="320" /> 
+    <img src="https://github.com/engineerjkk/engineerjkk/assets/76835313/2e4439a8-353c-4cd4-8c03-44ded44c3b7a"title="NeRF" width="320" />     
           <Visual Localization>                                                
   
 - **Deep Metric Learning**(좌) : 유사한 이미지의 임베딩 벡터는 서로 가까워지도록, 다른 이미지의 임베딩 벡터는 서로 멀어지도록 학습하는 딥러닝 기법
