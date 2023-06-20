@@ -12,7 +12,7 @@
 
 
 <center class="half">
-    <img src="https://github.com/engineerjkk/engineerjkk/assets/76835313/11838fec-3497-4716-9e04-4ff6e382d605" title="Deep Metric Learning" width="250" height="175"/> 
+    <img src="https://github.com/engineerjkk/engineerjkk/assets/76835313/11838fec-3497-4716-9e04-4ff6e382d605" title="Deep Metric Learning" width="250" height="170"/> 
     <img src="https://github.com/engineerjkk/engineerjkk/assets/76835313/388ba57d-acd1-4a7c-b41d-125e50f60146" title="Visual Localization" width="290" /> 
     <img src="https://github.com/engineerjkk/engineerjkk/assets/76835313/2e4439a8-353c-4cd4-8c03-44ded44c3b7a"title="NeRF" width="290" />     
           <Visual Localization>                                                
