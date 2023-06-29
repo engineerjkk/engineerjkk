@@ -100,11 +100,11 @@
         * [Original Paper Link](https://arxiv.org/abs/2004.11362) / [Paper review video](https://www.youtube.com/watch?v=nPBSf6RVI30&t=319s)
  
 * Novel View Synthesis
-   * [NeRF(2020)]
+   * NeRF(2020)
      * [Original Paper Link](https://arxiv.org/abs/2003.08934) / [Paper Review Video](https://www.youtube.com/watch?v=dyGCqLLBz50&t=18s)
    * 2D 이미지를 인공지능써서 3D로 만드는 방법 
      * [Video](https://www.youtube.com/watch?v=8_HlFKwiwGM&t=6s)
-   * [Instant NeRF(2022)]  
+   * Instant NeRF(2022)  
      * [Original Paper Link](https://arxiv.org/abs/2201.05989) / [Summary PDF](https://github.com/engineerjkk/PaperReview/blob/main/InstantNGP%20YouTube.pdf) / [Paper Review Video](https://www.youtube.com/watch?v=EYWHjrW-Xoo&t)   
 
 **My own Works** 
