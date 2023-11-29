@@ -122,8 +122,8 @@
 
 * Paper
    * [Clustering Reference Images Based on Covisibility for Visual Localization](https://www.techscience.com/cmc/v75n2/52040)
-   * [NeRF 배경 장면 제작을 위한 최적의 카메라 궤적](https://www.youtube.com/watch?v=d6p6hJfLdC8&t=9s)
-     *[발표영상](https://www.youtube.com/watch?v=d6p6hJfLdC8) 
+   * [NeRF 배경 장면 제작을 위한 최적의 카메라 궤적](https://www.youtube.com/watch?v=d6p6hJfLdC8&t=9s)  
+     * [발표영상](https://www.youtube.com/watch?v=d6p6hJfLdC8) 
    * [시각 장애인의 보행 보조를 위한 점자블록 인식 정확도 향상 방안 : YOLOv5와 꼭짓점 좌표 분석 활용](https://github.com/engineerjkk/PaperReview/blob/main/%EC%8B%9C%EA%B0%81%20%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%9D%98%20%EB%B3%B4%ED%96%89%20%EB%B3%B4%EC%A1%B0%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%A0%90%EC%9E%90%EB%B8%94%EB%A1%9D%20%EC%9D%B8%EC%8B%9D%20%EC%A0%95%ED%99%95%EB%8F%84%20%ED%96%A5%EC%83%81%20%EB%B0%A9%EC%95%88%20YOLOv5%EC%99%80%20%EA%BC%AD%EC%A7%93%EC%A0%90%20%EC%A2%8C%ED%91%9C%20%EB%B6%84%EC%84%9D%20%ED%99%9C%EC%9A%A9.pdf)
      * [발표영상](https://www.youtube.com/watch?v=yjXDbUI6TLE&t=60s)   
    * [안정적인 점자블록의 인식을 위한 YOLOv5와 평균 해시 매칭 기법 연구](https://github.com/engineerjkk/PaperReview/blob/main/A%20Study%20on%20YOLOv5%20and%20Mean%20Hash%20Matching%20Method%20for%20Stable%20Braille%20Block%20Recognition.pdf)
