@@ -112,10 +112,11 @@
 
 **My own Works** 
 
-* SKT AI Fellowship 5기, AI기반 고화질 3D 변환 기술 (2023.05~2023.10)      
+* SKT AI Fellowship 5기, AI기반 고화질 3D 변환 기술 (2023.05~2023.10) [우수상(3위) 수상]        
    * [연구계획](https://devocean.sk.com/blog/techBoardDetail.do?ID=165048&boardType=techBlog&searchData=&id=&vcode=&vcodeList=)
    * [연구과정](https://devocean.sk.com/community/detail.do?ID=165263&boardType=AI_FELLOWSHIP&page=1)
    * [연구결과](https://devocean.sk.com/blog/techBoardDetail.do?page=&query=&ID=165437&boardType=writer&searchData=sonbosung&subIndex=&idList=&pnwriterID=sonbosung)
+   * [최종 발표 영상](https://youtu.be/oemOx9q-se4?si=lIpN-9fNcYc-xDN-)    
     
 * Capstone Design
    * [딥러닝을 활용한 위험상황 인지 시스템 개발](https://github.com/engineerjkk/CapstoneDesign)
