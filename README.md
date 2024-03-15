@@ -4,7 +4,7 @@
 
 딥러닝을 활용한 컴퓨터비전과 기하학 문제를 푸는 연구에 관심이 있습니다. 
 
-* 중앙대학교 컴퓨터공학과 석사과정
+* 중앙대학교 컴퓨터공학과 석사 
 * SKT AI Fellowship 5기 [우수상(3위) 수상]
    * [SKT AI Fellowship 5기 최종 발표 영상](https://youtu.be/oemOx9q-se4?si=lIpN-9fNcYc-xDN-)
 
