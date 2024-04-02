@@ -22,17 +22,7 @@
 - **Visual Localization**(중앙) : 대규모 데이터셋에서의 카메라 매핑 및 카메라 포즈를 추정하는 기술.
 - **Novel View Synthesis**(우) : 입력 영상에서 없었던 방향과 위치에서 바라보았을 때 해당 3D 장면을 예측하는 인공지능 기술
 - **And other computer vision tasks** :
-  
-1. Object Detection
-2. Object Segmentation
-3. Image Generation and Translation
-4. Semi supervised learning and weakly supervised learning
-5. Self-supervised Dense Representation Learning
-6. Knowledge distillation model for Computer vision
-7. Local Feature Matching
-8. Dense Correspondence
-9. 3D Computer Vision
-10. Multi Modal Model
+  -  Object Detection, Object Segmentation, Image Generation and Translation, Semi supervised learning and weakly supervised learning, Self-supervised Dense Representation Learning, Knowledge distillation model for Computer vision, Local Feature Matching, Dense Correspondence, 3D Computer Vision, Multi Modal Model
   
      
       
