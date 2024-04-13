@@ -136,14 +136,7 @@
      -  출원일 2020년 12월 15일, 등록일 2022년 04월 22일  
      -  특허번호 : 제 10-2391293 호
   
-  
-My Study history 1 : [Image Processing](https://github.com/engineerjkk/Image_Processing) and [Deep Learning](https://github.com/engineerjkk/Deep_Learning)  
 
-My Study history 2 : Data Structure and Algorithm in [C](https://github.com/engineerjkk/AlgortihmsAndDataStructures), [Python](https://github.com/engineerjkk/DataStructure-in-Python)  
-
-My Study history 3 : Data Science [Pandas](https://github.com/engineerjkk/Pandas) 
-
-My Study history 4 : Hard Ware and Firm Ware [SMPS](https://github.com/engineerjkk/SMPS) and [BLDC Motor](https://github.com/engineerjkk/BLDC_Motor_Controller),[Video1](https://www.youtube.com/watch?v=WLUIsmI1Iyc&t=27s), [Video2](https://www.youtube.com/watch?v=dg-lvliHRZE) and [Smart Bed](https://github.com/engineerjkk/Smart-Bed) [Video](https://www.youtube.com/watch?v=N2SUE9rwkNs&t=17s)
 
 </div>
 <br/>
@@ -186,5 +179,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+  
+My Study history 1 : [Image Processing](https://github.com/engineerjkk/Image_Processing) and [Deep Learning](https://github.com/engineerjkk/Deep_Learning)  
+
+My Study history 2 : Data Structure and Algorithm in [C](https://github.com/engineerjkk/AlgortihmsAndDataStructures), [Python](https://github.com/engineerjkk/DataStructure-in-Python)  
+
+My Study history 3 : Data Science [Pandas](https://github.com/engineerjkk/Pandas) 
+
+My Study history 4 : Hard Ware and Firm Ware [SMPS](https://github.com/engineerjkk/SMPS) and [BLDC Motor](https://github.com/engineerjkk/BLDC_Motor_Controller),[Video1](https://www.youtube.com/watch?v=WLUIsmI1Iyc&t=27s), [Video2](https://www.youtube.com/watch?v=dg-lvliHRZE) and [Smart Bed](https://github.com/engineerjkk/Smart-Bed) [Video](https://www.youtube.com/watch?v=N2SUE9rwkNs&t=17s)
 -->
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fengineerjkk&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
