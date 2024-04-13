@@ -52,7 +52,7 @@
 </div>
 <br/>
 
-<div align=center>
+<div>
   
   
 ### Programming Languages  :rocket:
