@@ -167,7 +167,7 @@ My Study history 4 : Hard Ware and Firm Ware [SMPS](https://github.com/engineerj
   
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=engineerjkk)](https://solved.ac/engineerjkk)
 
-<img src="http://mazandi.herokuapp.com/api?handle=seohyun615&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle=engineerjkk&theme=warm"/>
 
  </div>
 
