@@ -7,7 +7,7 @@
 * 중앙대학교 컴퓨터공학과 석사 
 * SKT AI Fellowship 5기 [우수상(3위) 수상]
    * [SKT AI Fellowship 5기 최종 발표 영상](https://youtu.be/oemOx9q-se4?si=lIpN-9fNcYc-xDN-)
-
+------
 **주 연구분야**   
 
 
