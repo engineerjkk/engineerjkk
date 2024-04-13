@@ -48,7 +48,31 @@
   * [도전성 동부직포를 이용한 공기 환기필터 교체 시기 알림장치](https://github.com/engineerjkk/Patent/blob/main/%EB%8F%84%EC%A0%84%EC%84%B1%20%EB%8F%99%EB%B6%80%EC%A7%81%ED%8F%AC%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EA%B3%B5%EA%B8%B0%20%ED%99%98%EA%B8%B0%ED%95%84%ED%84%B0%20%EA%B5%90%EC%B2%B4%20%EC%8B%9C%EA%B8%B0%20%EC%95%8C%EB%A6%BC%20%EC%9E%A5%EC%B9%98.pdf) 
      -  출원일 2020년 12월 15일, 등록일 2022년 04월 22일  
      -  특허번호 : 제 10-2391293 호
-      
+
+</div>
+<br/>
+
+<div align=center>
+  
+  
+### Programming Languages  :rocket:
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  
+### Tools :fire:
+  
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+
+ <br/>
+ 
+ 
+  
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=engineerjkk)](https://solved.ac/engineerjkk)
+
+<img src="http://mazandi.herokuapp.com/api?handle=engineerjkk&theme=warm"/>
+
+ </div>
+
 **Paper Review** 
 * Convolutional Neural Network
    * [LeNet(1998)](https://github.com/engineerjkk/implementing-Papers/tree/main/01.LeNet(1998))
@@ -134,34 +158,6 @@
      * [Video](https://www.youtube.com/watch?v=8_HlFKwiwGM&t=6s)
    * Instant NeRF(2022)  
      * [Original Paper Link](https://arxiv.org/abs/2201.05989) / [Summary PDF](https://github.com/engineerjkk/PaperReview/blob/main/InstantNGP%20YouTube.pdf) / [Paper Review Video](https://www.youtube.com/watch?v=EYWHjrW-Xoo&t)   
-
-
-  
-
-
-</div>
-<br/>
-
-<div align=center>
-  
-  
-### Programming Languages  :rocket:
-
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  
-### Tools :fire:
-  
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-
- <br/>
- 
- 
-  
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=engineerjkk)](https://solved.ac/engineerjkk)
-
-<img src="http://mazandi.herokuapp.com/api?handle=engineerjkk&theme=warm"/>
-
- </div>
 
 
 <!--
