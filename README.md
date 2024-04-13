@@ -55,21 +55,19 @@
 <div>
   
   
-### Programming Languages  :rocket:
+**Programming Languages  :rocket:**
 
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> 
   
-### Tools :fire:
+**Tools :fire:**
   
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 
  <br/>
- 
- 
-  
+   
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=engineerjkk)](https://solved.ac/engineerjkk)
 
-<img src="http://mazandi.herokuapp.com/api?handle=engineerjkk&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle=engineerjkk&theme=warm">
 
  </div>
 
