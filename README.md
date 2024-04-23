@@ -19,7 +19,7 @@
     <img src="https://github.com/engineerjkk/engineerjkk/assets/76835313/2e4439a8-353c-4cd4-8c03-44ded44c3b7a"title="NeRF" width="290" />     
           <Visual Localization>                                                
   
-- **Deep Metric Learning**(좌) : 유사한 이미지의 임베딩 벡터는 서로 가까워지도록, 다른 이미지의 임베딩 벡터는 서로 멀어지도록 학습하는 딥러닝 기법 (이미지 검색 및 장소 인식 모델에 적용).
+- **Deep Metric Learning**(좌) : 유사한 이미지의 임베딩 벡터는 서로 가까워지도록, 다른 이미지의 임베딩 벡터는 서로 멀어지도록 학습하는 딥러닝 기법 (이미지 검색 및 장소 인식 모델 등에 적용).
 - **Visual Localization**(중앙) : 대규모 데이터셋에서의 카메라 매핑 및 카메라 포즈를 추정하는 기술 (로보틱스, 자율주행, AR 등에 적용).
 - **Neural Radiance Fields, 3D Gaussian Splatting**(우) : 입력 영상에서 없었던 방향과 위치에서 바라보았을 때 해당 3D 장면을 예측하는 인공지능 기술 (VFX, 디지털 트윈, XR 등에 적용).
 - **And other computer vision tasks** : Object Detection, Object Segmentation, Image Generation and Translation, Weakly Supervised Learning, Self-supervised Learning, Knowledge distillation model for Computer vision, Local Feature Matching, Dense Correspondence, 3D Computer Vision, Multi-Modal Model
