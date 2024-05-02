@@ -44,11 +44,11 @@
        * 1 저자
        * Multimedia Tools and Applications
     * 2023.03. [Clustering Reference Images Based on Covisibility for Visual Localization (International Journal (SCIE))](https://www.techscience.com/cmc/v75n2/52040)
-     * 2 저자
-     * CMC-Computers, Materials & Continua 
+       * 2 저자
+       * CMC-Computers, Materials & Continua 
   * 석사 학위 논문
      * 2023.12. [영상 위치 파악을 위한 공간적 CrossViT 기반 다중 모달 메트릭 학습](https://dcollection.cau.ac.kr/srch/srchDetail/000000241188?treePageNum=1&navigationSize=10&orgYn=all&thesisDegree=all&pageSize=10&ajax=false&searchText=%5B%EC%A0%84%EC%B2%B4%3AVisual+localization%5D&agreeYn=all&sortField=score&sortDir=desc&searchOption=km&searchOperator2=%2B&searchOperator3=%2B&searchWhere1=all&searchWhere2=all&insCode=211052&searchWhere3=all&searchKeyWord1=Visual+localization&query=%2B%28%28all%3Avisual%2Blocalization%29%29&itemTypeCode=all&start=0&searthTotalPage=0&rows=10&pageNum=1&searchTotalCount=0)
-      * 1 저자
+        * 1 저자
   * Domestic Journal (KCI)
      * 2022.04. [시각 장애인의 보행 보조를 위한 점자블록 인식 정확도 향상 방안 : YOLOv5와 꼭짓점 좌표 분석 활용](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002831230)  
        * [발표영상](https://www.youtube.com/watch?v=yjXDbUI6TLE&t=60s)
@@ -64,12 +64,12 @@
        * 2 저자
        * 2021 한국정보과학회  
 * **Projects**
-  * SKT AI Fellowship 5기, AI기반 고화질 3D 변환 기술 (2023.05~2023.10) [우수상(3위) 수상]        
+  * SKT AI Fellowship 5기, AI기반 고화질 3D 변환 기술 (2023.05~2023.10) [우수상(3위) 수상]
+     * 팀장 역할 수행 (프로젝트 전체 파이프라인 기획 및 개발)      
      * [연구계획](https://devocean.sk.com/blog/techBoardDetail.do?ID=165048&boardType=techBlog&searchData=&id=&vcode=&vcodeList=)
      * [연구과정](https://devocean.sk.com/community/detail.do?ID=165263&boardType=AI_FELLOWSHIP&page=1)
      * [연구결과](https://devocean.sk.com/blog/techBoardDetail.do?page=&query=&ID=165437&boardType=writer&searchData=sonbosung&subIndex=&idList=&pnwriterID=sonbosung)
-     * [최종 발표 영상](https://youtu.be/oemOx9q-se4?si=lIpN-9fNcYc-xDN-)
-     * 팀장 역할 수행 (프로젝트 전체 파이프라인 기획 및 개발)    
+     * [최종 발표 영상](https://youtu.be/oemOx9q-se4?si=lIpN-9fNcYc-xDN-)   
     
   * Capstone Design (학부 졸업 작품)
      * [딥러닝을 활용한 위험상황 인지 시스템 개발](https://github.com/engineerjkk/CapstoneDesign)
