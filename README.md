@@ -18,7 +18,8 @@
        * 산업통상자원부 (지원기관: 한국산업기술진흥원)
        * 2023.03.02 ~ 2024.02.29
                
-* **SKT AI Fellowship 5기 [우수상(3위) 수상]** (2023.05 ~ 2023.10)  
+* **SKT AI Fellowship 5기** (2023.05 ~ 2023.10)
+   * 우수상(3위) 수상   
    * AI 기반 고화질 3D 변환 기술 연구 (NeRF: Neural Radiance Fields) 
    * [SKT AI Fellowship 5기 최종 발표 영상](https://youtu.be/oemOx9q-se4?si=lIpN-9fNcYc-xDN-)
    * [SKT AI Feillowship 6기 모집 영상 인터뷰](https://youtu.be/h9WR_drCdjM?si=AyzWB2MI2-R_rHwd)
