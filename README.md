@@ -25,8 +25,6 @@
 - **Neural Radiance Fields, 3D Gaussian Splatting**(우) : 입력 영상에서 없었던 방향과 위치에서 바라보았을 때 해당 3D 장면을 예측하는 인공지능 기술 (VFX, 디지털 트윈, XR 등에 적용).
 - **And other computer vision tasks** : Object Detection, Object Segmentation, Image Generation and Translation, Weakly Supervised Learning, Self-supervised Learning, Knowledge distillation model for Computer vision, Local Feature Matching, Dense Correspondence, 3D Computer Vision, Multi-Modal Model
 -----  
-**My Works** 
-
 * **Paper**
   * International Journal (SCIE)
     * 2024.X. Multi-modal CrossViT using 3D Spatial Information for Visual Localization
@@ -37,7 +35,7 @@
      * CMC-Computers, Materials & Continua 
   * 석사 학위 논문
      * 2023.12. [영상 위치 파악을 위한 공간적 CrossViT 기반 다중 모달 메트릭 학습](https://dcollection.cau.ac.kr/srch/srchDetail/000000241188?treePageNum=1&navigationSize=10&orgYn=all&thesisDegree=all&pageSize=10&ajax=false&searchText=%5B%EC%A0%84%EC%B2%B4%3AVisual+localization%5D&agreeYn=all&sortField=score&sortDir=desc&searchOption=km&searchOperator2=%2B&searchOperator3=%2B&searchWhere1=all&searchWhere2=all&insCode=211052&searchWhere3=all&searchKeyWord1=Visual+localization&query=%2B%28%28all%3Avisual%2Blocalization%29%29&itemTypeCode=all&start=0&searthTotalPage=0&rows=10&pageNum=1&searchTotalCount=0)
-    * 1 저자
+      * 1 저자
   * Domestic Journal (KCI)
      * 2022.04. [시각 장애인의 보행 보조를 위한 점자블록 인식 정확도 향상 방안 : YOLOv5와 꼭짓점 좌표 분석 활용](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002831230)  
        * [발표영상](https://www.youtube.com/watch?v=yjXDbUI6TLE&t=60s)
