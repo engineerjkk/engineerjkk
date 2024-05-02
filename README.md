@@ -38,7 +38,7 @@
 - **Neural Radiance Fields, 3D Gaussian Splatting**(우) : 입력 영상에서 없었던 방향과 위치에서 바라보았을 때 해당 3D 장면을 예측하는 인공지능 기술 (VFX, 디지털 트윈, XR 등에 적용).
 - **And other computer vision tasks** : Object Detection, Object Segmentation, Image Generation and Translation, Weakly Supervised Learning, Self-supervised Learning, Knowledge distillation model for Computer vision, Local Feature Matching, Dense Correspondence, 3D Computer Vision, Multi-Modal Model
 -----  
-* **Paper**
+* **Papers**
   * International Journal (SCIE)
     * 2024.X. Multi-modal CrossViT using 3D Spatial Information for Visual Localization
        * 1 저자
