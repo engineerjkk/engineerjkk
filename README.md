@@ -38,7 +38,7 @@
 - **Neural Radiance Fields, 3D Gaussian Splatting**(우) : 입력 영상에서 없었던 방향과 위치에서 바라보았을 때 해당 3D 장면을 예측하는 인공지능 기술 (VFX, 디지털 트윈, XR 등에 적용).
 - **And other computer vision tasks** : Object Detection, Object Segmentation, Image Generation and Translation, Weakly Supervised Learning, Self-supervised Learning, Knowledge distillation model for Computer vision, Local Feature Matching, Dense Correspondence, 3D Computer Vision, Multi-Modal Model
 -----  
-* **Papers**
+**Papers**
   * International Journal (SCIE)
     * 2024.X. Multi-modal CrossViT using 3D Spatial Information for Visual Localization
        * 1 저자
@@ -63,7 +63,7 @@
      * [2021.06 안정적인 점자블록의 인식을 위한 YOLOv5와 평균 해시 매칭 기법 연구 (Domestic Conference)](https://github.com/engineerjkk/PaperReview/blob/main/A%20Study%20on%20YOLOv5%20and%20Mean%20Hash%20Matching%20Method%20for%20Stable%20Braille%20Block%20Recognition.pdf)
        * 2 저자
        * 2021 한국정보과학회  
-* **Projects**
+**Projects**
   * SKT AI Fellowship 5기, AI기반 고화질 3D 변환 기술 (2023.05 ~ 2023.10) [우수상(3위) 수상]
      * 팀장 역할 수행 (프로젝트 전체 파이프라인 기획 및 개발)      
      * [연구계획](https://devocean.sk.com/blog/techBoardDetail.do?ID=165048&boardType=techBlog&searchData=&id=&vcode=&vcodeList=)
@@ -76,7 +76,7 @@
      * [Summary PDF](https://github.com/engineerjkk/CapstoneDesign/blob/main/CapstoneDesign%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) / [발표영상](https://www.youtube.com/watch?v=MaQp2NTFgFk)
      * 최우수상 수상 (1위)
       
-* **Patent**
+**Patent**
   * [도전성 동부직포를 이용한 공기 환기필터 교체 시기 알림장치](https://github.com/engineerjkk/Patent/blob/main/%EB%8F%84%EC%A0%84%EC%84%B1%20%EB%8F%99%EB%B6%80%EC%A7%81%ED%8F%AC%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EA%B3%B5%EA%B8%B0%20%ED%99%98%EA%B8%B0%ED%95%84%ED%84%B0%20%EA%B5%90%EC%B2%B4%20%EC%8B%9C%EA%B8%B0%20%EC%95%8C%EB%A6%BC%20%EC%9E%A5%EC%B9%98.pdf) 
      -  출원일 2020년 12월 15일, 등록일 2022년 04월 22일  
      -  특허번호 : 제 10-2391293 호
