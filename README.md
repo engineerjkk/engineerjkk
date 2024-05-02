@@ -62,7 +62,8 @@
        * 2023 한국인공지능학술대회
      * [2021.06 안정적인 점자블록의 인식을 위한 YOLOv5와 평균 해시 매칭 기법 연구 (Domestic Conference)](https://github.com/engineerjkk/PaperReview/blob/main/A%20Study%20on%20YOLOv5%20and%20Mean%20Hash%20Matching%20Method%20for%20Stable%20Braille%20Block%20Recognition.pdf)
        * 2 저자
-       * 2021 한국정보과학회  
+       * 2021 한국정보과학회
+       
 **Projects**
   * SKT AI Fellowship 5기, AI기반 고화질 3D 변환 기술 (2023.05 ~ 2023.10) [우수상(3위) 수상]
      * 팀장 역할 수행 (프로젝트 전체 파이프라인 기획 및 개발)      
