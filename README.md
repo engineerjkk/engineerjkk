@@ -7,6 +7,7 @@
 * **중앙대학교 컴퓨터공학과 석사** (2022.03 ~ 2024.02)  
    * 석사학위논문 : [영상 위치 파악을 위한 공간적 CrossViT 기반 다중 모달 메트릭 학습](https://dcollection.cau.ac.kr/srch/srchDetail/000000241188?treePageNum=1&navigationSize=10&orgYn=all&thesisDegree=all&pageSize=10&ajax=false&searchText=%5B%EC%A0%84%EC%B2%B4%3AVisual+localization%5D&agreeYn=all&sortField=score&sortDir=desc&searchOption=km&searchOperator2=%2B&searchOperator3=%2B&searchWhere1=all&searchWhere2=all&insCode=211052&searchWhere3=all&searchKeyWord1=Visual+localization&query=%2B%28%28all%3Avisual%2Blocalization%29%29&itemTypeCode=all&start=0&searthTotalPage=0&rows=10&pageNum=1&searchTotalCount=0)
    * GPA : 4.26 / 4.5
+   * 신호및시스템 / 로봇비전프로젝트 조교교
    * 수행 과제
      * 실시간 조명 및 공간 분석 정보 기반 모바일 증강 현실 기술 개발
        * 문화체육관광부 (지원기관: 한국콘텐츠진흥원)
