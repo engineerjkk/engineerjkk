@@ -84,12 +84,13 @@
      -  출원일 2020년 12월 15일, 등록일 2022년 04월 22일  
      -  특허번호 : 제 10-2391293 호
 -----
+<!--
 </div>
 <br/>
 
 <div>
   
-  
+
 **Programming Languages  :rocket:**
 
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> 
@@ -104,7 +105,6 @@
  </div>
 
 
-<!--
 **engineerjkk/engineerjkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=engineerjkk&show_icons=true&theme=dracula)
 Sub Interests 3 : Soft Ware 🔭 [DataBase](https://github.com/engineerjkk/DataBase), [NetWork](https://github.com/engineerjkk/Network), [OperatingSystem](https://github.com/engineerjkk/OperatingSystem)  
