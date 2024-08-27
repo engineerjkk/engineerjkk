@@ -8,7 +8,7 @@
    * 석사학위논문 : [영상 위치 파악을 위한 공간적 CrossViT 기반 다중 모달 메트릭 학습](https://dcollection.cau.ac.kr/srch/srchDetail/000000241188?treePageNum=1&navigationSize=10&orgYn=all&thesisDegree=all&pageSize=10&ajax=false&searchText=%5B%EC%A0%84%EC%B2%B4%3AVisual+localization%5D&agreeYn=all&sortField=score&sortDir=desc&searchOption=km&searchOperator2=%2B&searchOperator3=%2B&searchWhere1=all&searchWhere2=all&insCode=211052&searchWhere3=all&searchKeyWord1=Visual+localization&query=%2B%28%28all%3Avisual%2Blocalization%29%29&itemTypeCode=all&start=0&searthTotalPage=0&rows=10&pageNum=1&searchTotalCount=0)
    * GPA : 4.26 / 4.5  
                    
-* **SKT AI Fellowship 5기** (2023.05 ~ 2023.10)
+* **SKT AI Fellowship 5기** (2023.05 ~ 2023.11)
    * 우수상(3위) 수상   
    * AI 기반 고화질 3D 변환 기술 연구 (NeRF: Neural Radiance Fields) 
    * [SKT AI Fellowship 5기 최종 발표 영상](https://youtu.be/oemOx9q-se4?si=lIpN-9fNcYc-xDN-)
