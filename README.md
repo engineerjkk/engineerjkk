@@ -1,8 +1,8 @@
 [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UClTkYrcqEdDlGpzAyEHjnzw)
 
-👋 **Hi, I'm Junekoo Kang, I am interested in solving Computer Vision and Geometry problems using Deep Learning.**  
+👋 **Hi, I'm Junekoo Kang, I am interested in Deep Metric Learning for Foundation Models, and researching its applications in solving Computer Vision and Geometry problems.**  
 
-딥러닝을 활용한 컴퓨터비전과 기하학 문제를 푸는 연구에 관심이 있습니다. 
+딥러닝 Foundation Model을 위한 Deep Metric Learning 이를 활용한 Computer Vision과 Geometry 문제를 푸는 연구에 관심이 있습니다. 
 
 * **컴퓨터공학과 석사** (2022.03 ~ 2024.02)  
    * 석사학위논문 : [영상 위치 파악을 위한 공간적 CrossViT 기반 다중 모달 메트릭 학습](https://dcollection.cau.ac.kr/srch/srchDetail/000000241188?treePageNum=1&navigationSize=10&orgYn=all&thesisDegree=all&pageSize=10&ajax=false&searchText=%5B%EC%A0%84%EC%B2%B4%3AVisual+localization%5D&agreeYn=all&sortField=score&sortDir=desc&searchOption=km&searchOperator2=%2B&searchOperator3=%2B&searchWhere1=all&searchWhere2=all&insCode=211052&searchWhere3=all&searchKeyWord1=Visual+localization&query=%2B%28%28all%3Avisual%2Blocalization%29%29&itemTypeCode=all&start=0&searthTotalPage=0&rows=10&pageNum=1&searchTotalCount=0)
