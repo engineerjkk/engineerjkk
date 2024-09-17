@@ -37,8 +37,9 @@
   *  **유형**: 개인 프로젝트  
   *  **역할**: 벡터DB와 LLM 기반 상품 검색 및 추천 시스템 개발    
  
-**목적**     
-Deep Metric Learning 및 이미지 검색에 관한 석사 연구 경험을 확장하여, LLM을 활용한 상품 검색 및 추천 시스템 개발  
+* **목적**     
+  * Deep Metric Learning 및 이미지 검색에 관한 석사 연구 경험을 확장하여, LLM을 활용한 상품 검색 및 추천 시스템 개발  
+
 -----  
 **Papers**
   * International Journal (SCIE)
