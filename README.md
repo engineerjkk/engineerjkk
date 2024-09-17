@@ -29,13 +29,13 @@
 - **Neural Radiance Fields, 3D Gaussian Splatting**(우) : 카메라 촬영만으로 조명변화를 고려한 고화질의 3D를 제작하는 인공지능 기술 (VFX, 디지털 트윈, XR 등에 적용).
 - **And other computer vision tasks** : Object Detection, Object Segmentation, Image Generation and Translation, Weakly Supervised Learning, Self-supervised Learning, Knowledge distillation model for Computer vision, Local Feature Matching, Dense Correspondence, 3D Computer Vision, Multi-Modal Model
 ----
-**VectorDB와 LLM 기반 상품 검색 및 추천 시스템**  
-[Github 페이지 바로가기](https://github.com/engineerjkk/VectorDB-and-LLM)  
-**프로젝트 개요**  
+* **VectorDB와 LLM 기반 상품 검색 및 추천 시스템**  
+  * [Github 페이지 바로가기](https://github.com/engineerjkk/VectorDB-and-LLM)  
+*  **프로젝트 개요**  
   
-- **기간**: 4개월 (2024-05 ~ 2024-08)  
-- **유형**: 개인 프로젝트  
-- **역할**: 벡터DB와 LLM 기반 상품 검색 및 추천 시스템 개발    
+  *  **기간**: 4개월 (2024-05 ~ 2024-08)  
+  *  **유형**: 개인 프로젝트  
+  *  **역할**: 벡터DB와 LLM 기반 상품 검색 및 추천 시스템 개발    
  
 **목적**     
 Deep Metric Learning 및 이미지 검색에 관한 석사 연구 경험을 확장하여, LLM을 활용한 상품 검색 및 추천 시스템 개발  
