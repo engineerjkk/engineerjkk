@@ -40,7 +40,7 @@
 -----  
 **Papers**
   * International Journal (SCIE)
-    * 2024.X. Multi-modal CrossViT using 3D Spatial Information for Visual Localization
+    * 2024.X. [Multi-modal CrossViT using 3D Spatial Information for Visual Localization (2024.09.20 Revision Update)](https://drive.google.com/file/d/1OTZluptDGXuVyDZKRe9ICsU65BlOgoul/view?usp=sharing)
        * 1 저자
        * Multimedia Tools and Applications
     * 2023.03. [Clustering Reference Images Based on Covisibility for Visual Localization (International Journal (SCIE))](https://www.techscience.com/cmc/v75n2/52040)
