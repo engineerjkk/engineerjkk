@@ -24,8 +24,10 @@
           <Visual Localization>                                                
   
 - **Deep Metric Learning**(좌) : LLM 및 Vision의 Foundation model로, 유사한 데이터의 임베딩 벡터는 서로 가까워지도록, 다른 데이터의 임베딩 벡터는 서로 멀어지도록 학습하는 딥러닝 기법.
+  - **AI Service** : LLM, Multi-Modal, Computer Vision, OpenAI API, VectorDB, LlamaIndex , LangChain , etc
 - **Visual Localization**(중앙) : 대규모 데이터셋에서의 카메라 매핑 및 카메라 포즈를 추정하는 기술 (로보틱스, 자율주행, AR 등에 적용).
 - **Neural Radiance Fields, 3D Gaussian Splatting**(우) : 카메라 촬영만으로 조명변화를 고려한 고화질의 3D를 제작하는 인공지능 기술 (VFX, 디지털 트윈, XR 등에 적용).
+
 - **And other computer vision tasks** : Object Detection, Object Segmentation, Image Generation and Translation, Weakly Supervised Learning, Self-supervised Learning, Knowledge distillation model for Computer vision, Local Feature Matching, Dense Correspondence, 3D Computer Vision, Multi-Modal Model
 ----
 * **VectorDB와 LLM 기반 상품 검색 및 추천 시스템**  
