@@ -2,7 +2,8 @@
 
 
 딥러닝을 활용한 컴퓨터 비전과 기하학 문제를 해결하는 연구를 주로 합니다.   
-최근(2024)에는 Visual Localization 문제를 Deep Metric Learning으로 풀어내어 SCIE 급 저널에 1저자로 논문을 작성하였습니다. [[Paper](https://drive.google.com/file/d/1Hr5utzpZ1N-jLoH12ro31UABBPl5ejtp/view?usp=sharing)]    
+최근(2024)에는 Visual Localization 문제를 Deep Metric Learning으로 풀어내어 SCIE 급 저널에 1저자로 논문을 작성하였습니다.   
+2024.10.08 Accepted [[Paper](https://drive.google.com/file/d/1Hr5utzpZ1N-jLoH12ro31UABBPl5ejtp/view?usp=sharing)]     
 I am interested in solving computer vision and geometry problems using deep learning.   
 
 * **컴퓨터공학과 석사** (2022.03 ~ 2024.02)  
