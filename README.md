@@ -4,8 +4,9 @@
 딥러닝을 활용한 컴퓨터 비전과 기하학 문제를 해결하는 연구를 주로 합니다.   
 I am interested in solving computer vision and geometry problems using deep learning.    
 
-* **최근 연구** (2024.10.08 Accepted)
-  * [Multi-modal CrossViT using 3D Spatial Information for Visual Localization](https://drive.google.com/file/d/1Hr5utzpZ1N-jLoH12ro31UABBPl5ejtp/view?usp=sharing)
+* **최근 연구** (Accepted: 8 October 2024, Published: 18 October 2024))
+  * [Multi-modal CrossViT using 3D Spatial Information for Visual Localization](https://drive.google.com/file/d/16deTO1LvQE-eh0E4dOQJt9njEz26IRIu/view?usp=sharing)
+  * [Online](https://link.springer.com/article/10.1007/s11042-024-20382-w?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20241018&utm_content=10.1007%2Fs11042-024-20382-w) 
   * Visual Localization 문제를 Deep Metric Learning으로 풀어내어 SCIE 급 저널에 1저자로 논문을 작성하였습니다.   
 
 * **컴퓨터공학과 석사** (2022.03 ~ 2024.02)  
@@ -46,7 +47,7 @@ I am interested in solving computer vision and geometry problems using deep lear
 -----  
 **Papers**
   * International Journal (SCIE)
-    * 2024.X. [Multi-modal CrossViT using 3D Spatial Information for Visual Localization](https://drive.google.com/file/d/1r13JvFfBZ3RJEctzkqPet2uWhn5xn2lN/view?usp=sharing)  (2024.10.08 Accepted)
+    * 2024.10. [Multi-modal CrossViT using 3D Spatial Information for Visual Localization](https://drive.google.com/file/d/16deTO1LvQE-eh0E4dOQJt9njEz26IRIu/view?usp=sharing)    
        * 1 저자
        * Multimedia Tools and Applications
     * 2023.03. [Clustering Reference Images Based on Covisibility for Visual Localization](https://www.techscience.com/cmc/v75n2/52040)
