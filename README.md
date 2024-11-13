@@ -19,10 +19,7 @@ I am interested in solving computer vision and geometry problems using deep lear
    * [SKT AI Fellowship 5기 최종 발표 영상](https://youtu.be/oemOx9q-se4?si=lIpN-9fNcYc-xDN-)
    * [SKT AI Feillowship 6기 모집 영상 인터뷰](https://youtu.be/h9WR_drCdjM?si=AyzWB2MI2-R_rHwd)
 ------
-**주 연구분야**   
-
-
-
+### 🔬 Research Areas
 <center class="half">
     <img src="https://github.com/engineerjkk/engineerjkk/assets/76835313/11838fec-3497-4716-9e04-4ff6e382d605" title="Deep Metric Learning" width="250" height="170"/> 
     <img src="https://github.com/engineerjkk/engineerjkk/assets/76835313/388ba57d-acd1-4a7c-b41d-125e50f60146" title="Visual Localization" width="290" /> 
@@ -36,7 +33,7 @@ I am interested in solving computer vision and geometry problems using deep lear
 
 - **And other computer vision tasks** : Object Detection, Object Segmentation, Image Generation and Translation, Weakly Supervised Learning, Self-supervised Learning, Knowledge distillation model for Computer vision, Local Feature Matching, Dense Correspondence, 3D Computer Vision, Multi-Modal Model
 ----
-* **VectorDB와 LLM 기반 상품 검색 및 추천 시스템**  
+###🔬 VectorDB와 LLM 기반 상품 검색 및 추천 시스템
   * [Github 페이지 바로가기](https://github.com/engineerjkk/VectorDB-and-LLM)  
   *  **프로젝트 개요 :**  
     *  **기간**: 4개월 (2024-05 ~ 2024-08)    
@@ -45,7 +42,7 @@ I am interested in solving computer vision and geometry problems using deep lear
     * **목적** : Deep Metric Learning 및 이미지 검색에 관한 석사 연구 경험을 확장하여, LLM을 활용한 상품 검색 및 추천 시스템 개발    
   
 -----  
-**Papers**
+### 📚 Publications
   * International Journal (SCIE)
     * 2024.10. [Multi-modal CrossViT using 3D Spatial Information for Visual Localization](https://drive.google.com/file/d/16deTO1LvQE-eh0E4dOQJt9njEz26IRIu/view?usp=sharing)    
        * 1 저자
@@ -73,7 +70,7 @@ I am interested in solving computer vision and geometry problems using deep lear
 
 ----
     
-**Projects**
+## 🏆 Awards & Achievements
   * SKT AI Fellowship 5기, AI기반 고화질 3D 변환 기술 (2023.05 ~ 2023.10) [우수상(3위) 수상]
      * 팀장 역할 수행 (프로젝트 전체 파이프라인 기획 및 개발)      
      * [연구계획](https://devocean.sk.com/blog/techBoardDetail.do?ID=165048&boardType=techBlog&searchData=&id=&vcode=&vcodeList=)
@@ -93,7 +90,7 @@ I am interested in solving computer vision and geometry problems using deep lear
      -  출원일 2020년 12월 15일, 등록일 2022년 04월 22일  
      -  특허번호 : 제 10-2391293 호
 -----
-## 💻 Technical Stack
+### 💻 Technical Stack
 
 ### Core Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
