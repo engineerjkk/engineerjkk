@@ -35,9 +35,8 @@ I am interested in solving computer vision and geometry problems using deep lear
 ----
 ### 🔬 VectorDB와 LLM 기반 상품 검색 및 추천 시스템
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/55044585-a428-4bc4-9e8f-a78b66a45ac2" width="400">
+  <img src="https://github.com/user-attachments/assets/95a7a9d5-37e9-4826-93de-8f0739183fbd" width="500">
 </p>  
-
   * [Github 페이지 바로가기](https://github.com/engineerjkk/VectorDB-and-LLM)  
   *  **프로젝트 개요 :**  
     *  **기간**: 4개월 (2024-05 ~ 2024-08)    
