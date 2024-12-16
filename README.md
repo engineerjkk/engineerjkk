@@ -7,7 +7,7 @@ I am interested in solving computer vision and geometry problems using deep lear
 * **최근 연구** (Accepted: 8 October 2024, Published: 18 October 2024)
   * [Multi-modal CrossViT using 3D Spatial Information for Visual Localization](https://drive.google.com/file/d/16deTO1LvQE-eh0E4dOQJt9njEz26IRIu/view?usp=sharing)
   * [Online](https://link.springer.com/article/10.1007/s11042-024-20382-w?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20241018&utm_content=10.1007%2Fs11042-024-20382-w) 
-  * Visual Localization 문제를 Deep Metric Learning으로 풀어내어 SCIE 급 저널에 1저자로 논문을 작성하였습니다.   
+  * Visual Localization 문제를 Deep Metric Learning으로 풀어내어 SCIE 급 저널에 1저자로 논문을 작성하였습니다. [(Code)](https://github.com/engineerjkk/Multi-modal-CrossViT-for-Visual-Localization)  
 
 * **컴퓨터공학과 석사** (2022.03 ~ 2024.02)  
    * 석사학위논문 : [영상 위치 파악을 위한 공간적 CrossViT 기반 다중 모달 메트릭 학습](https://dcollection.cau.ac.kr/srch/srchDetail/000000241188?treePageNum=1&navigationSize=10&orgYn=all&thesisDegree=all&pageSize=10&ajax=false&searchText=%5B%EC%A0%84%EC%B2%B4%3AVisual+localization%5D&agreeYn=all&sortField=score&sortDir=desc&searchOption=km&searchOperator2=%2B&searchOperator3=%2B&searchWhere1=all&searchWhere2=all&insCode=211052&searchWhere3=all&searchKeyWord1=Visual+localization&query=%2B%28%28all%3Avisual%2Blocalization%29%29&itemTypeCode=all&start=0&searthTotalPage=0&rows=10&pageNum=1&searchTotalCount=0)
