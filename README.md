@@ -6,7 +6,8 @@ I am interested in solving computer vision and geometry problems using deep lear
 
 * **최근 연구** (Accepted: 8 October 2024, Published: 18 October 2024)
   * [Multi-modal CrossViT using 3D Spatial Information for Visual Localization](https://drive.google.com/file/d/16deTO1LvQE-eh0E4dOQJt9njEz26IRIu/view?usp=sharing)
-  * [Online](https://link.springer.com/article/10.1007/s11042-024-20382-w?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20241018&utm_content=10.1007%2Fs11042-024-20382-w) 
+  * [Online](https://link.springer.com/article/10.1007/s11042-024-20382-w?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20241018&utm_content=10.1007%2Fs11042-024-20382-w)
+  * [발표 영상](https://youtu.be/TsPzV1ddBqE?si=HmNElAiAxX-yGS28)
   * Visual Localization 문제를 Deep Metric Learning으로 풀어내어 SCIE 급 저널에 1저자로 논문을 작성하였습니다. [(Code)](https://github.com/engineerjkk/Multi-modal-CrossViT-for-Visual-Localization)  
 
 * **컴퓨터공학과 석사** (2022.03 ~ 2024.02)  
