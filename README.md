@@ -52,6 +52,7 @@ I am interested in solving computer vision and geometry problems using deep lear
     * 2024.10. [Multi-modal CrossViT using 3D Spatial Information for Visual Localization](https://drive.google.com/file/d/16deTO1LvQE-eh0E4dOQJt9njEz26IRIu/view?usp=sharing)    
        * 1 저자
        * Multimedia Tools and Applications
+       * [발표 영상](https://youtu.be/TsPzV1ddBqE?si=HmNElAiAxX-yGS28)
     * 2023.03. [Clustering Reference Images Based on Covisibility for Visual Localization](https://www.techscience.com/cmc/v75n2/52040)
        * 2 저자
        * CMC-Computers, Materials & Continua 
