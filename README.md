@@ -179,6 +179,7 @@ My Study history 2 : Data Structure and Algorithm in [C](https://github.com/engi
 My Study history 3 : Data Science [Pandas](https://github.com/engineerjkk/Pandas) 
 
 My Study history 4 : Hard Ware and Firm Ware [SMPS](https://github.com/engineerjkk/SMPS) and [BLDC Motor](https://github.com/engineerjkk/BLDC_Motor_Controller),[Video1](https://www.youtube.com/watch?v=WLUIsmI1Iyc&t=27s), [Video2](https://www.youtube.com/watch?v=dg-lvliHRZE) and [Smart Bed](https://github.com/engineerjkk/Smart-Bed) [Video](https://www.youtube.com/watch?v=N2SUE9rwkNs&t=17s)
--->
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fengineerjkk&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)     
  [![visitor badge](https://visitor-badge.glitch.me/badge?page_id=engineerjkk)](https://visitorbadge.io)
+
+-->
