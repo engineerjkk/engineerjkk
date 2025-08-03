@@ -4,7 +4,7 @@
 딥러닝을 활용한 컴퓨터 비전과 기하학 문제를 해결하는 연구를 주로 합니다.   
 I am interested in solving computer vision and geometry problems using deep learning.    
 
-* **현)** 대기업 연구원 (2025 ~)  
+* **현)** 대기업 엔지니어 (2025 ~)  
 
 * **최근 연구** (Published: 2024.10.18)
   * [Multi-modal CrossViT using 3D Spatial Information for Visual Localization](https://drive.google.com/file/d/16deTO1LvQE-eh0E4dOQJt9njEz26IRIu/view?usp=sharing)
